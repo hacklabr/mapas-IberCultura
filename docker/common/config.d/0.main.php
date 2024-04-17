@@ -1,6 +1,8 @@
 <?php 
 
 return [
+    'themes.active' => 'IberCulturaViva',
+    
     'app.siteName' => 'Mapas Culturais Base Project',
     'app.siteDescription' => 'O Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos, projetos culturais e oportunidades',
     
