@@ -5,6 +5,8 @@ $__process_assets = false;
 return [
     'app.verifiedSealsIds' => '1',
     'cep.token' => '',
+
+    'themes.active' => 'IberCulturaViva',
     
     'slim.debug' => true,
 
