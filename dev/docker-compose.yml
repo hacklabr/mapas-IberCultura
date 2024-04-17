@@ -20,7 +20,6 @@ services:
       - ./config.d:/var/www/config/local.d
 
       # themes and plugins
-      - ../plugins/SamplePlugin:/var/www/src/plugins/SamplePlugin
       - ../plugins/MultipleLocalAuth:/var/www/src/plugins/MultipleLocalAuth
       - ../themes/IberCulturaViva:/var/www/src/themes/IberCulturaViva
 
