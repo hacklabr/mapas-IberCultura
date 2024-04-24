@@ -14,15 +14,15 @@ $lightness-300: 25%;
 $lightness-700: 25%;
 
 // Brand colors
-$primary-500: #007B2B;
+$primary-500: #7a2b8c;
 $secondary-500: #f38b43;
 
 // Entities colors
-$opportunities-500: #494CF8;
-$events-500: #CC0014;
-$agents-500: #396a95;
-$projects-500: #209DF5;
-$spaces-500: #FEB100;
+$opportunities-500: rgb(4, 4, 231);
+$events-500: #692579;
+$agents-500: #ee203e;
+$projects-500: #ed0f92;
+$spaces-500: #f39c1e;
 
 $seals-500: #1E1E1E;
 
@@ -94,4 +94,38 @@ $home-register: #002842;
 
 .mc-header-logo {
     width: 146.14px;
+}
+
+.home-developers {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+
+    &__background {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        overflow: hidden;
+        left: 0;
+
+    }
+    
+    &__background-img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    &__background-mask {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-color:rgba(102, 102, 102, 0.85);
+    }
+
+    &__content {
+        z-index: 1;
+    }
 }
