@@ -23,5 +23,10 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
         $app->hook("template(<<*>>.<<*>>.main-footer-links):after", function(){
             $this->part("logo-footer");
         });
+
+        $app->hook('app.init:after', function () {
+            $imagesList[] = 'img/home--intro.jpg';
+            $this->config['module.home']['home-header'] = $imagesList[0];
+        });
     }
 }
