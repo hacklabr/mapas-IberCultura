@@ -2,8 +2,17 @@
 
 return [
     'plugins' => [
+        'AdminLoginAsUser' => ['namespace' => 'AdminLoginAsUser'],
         'MultipleLocalAuth' => [ 'namespace' => 'MultipleLocalAuth' ],
-        'SamplePlugin' => ['namespace' => 'SamplePlugin'],
         'Analytics' => ['namespace' => 'Analytics'],
+        'AdminLoginAsUser' => ['namespace' => 'AdminLoginAsUser'],
+        'MapasBlame' => [
+            'namespace' => 'MapasBlame',
+            'config' => [
+                'request.logData.PATCH' => function ($data) {
+                    return $data;
+                },
+            ]
+        ],
     ]
 ];
