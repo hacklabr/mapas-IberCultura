@@ -6,6 +6,7 @@ return [
         'MultipleLocalAuth' => [ 'namespace' => 'MultipleLocalAuth' ],
         'Analytics' => ['namespace' => 'Analytics'],
         'Accessibility',
+        'SpamDetector',
         'MapasBlame' => [
             'namespace' => 'MapasBlame',
             'config' => [
