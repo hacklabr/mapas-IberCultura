@@ -6,6 +6,7 @@ return [
         'MultipleLocalAuth' => [ 'namespace' => 'MultipleLocalAuth' ],
         'Analytics' => ['namespace' => 'Analytics'],
         'AdminLoginAsUser' => ['namespace' => 'AdminLoginAsUser'],
+        'Accessibility',
         'MapasBlame' => [
             'namespace' => 'MapasBlame',
             'config' => [
