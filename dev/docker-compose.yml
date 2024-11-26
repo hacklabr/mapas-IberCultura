@@ -21,6 +21,11 @@ services:
 
       # themes and plugins
       - ../plugins/MultipleLocalAuth:/var/www/src/plugins/MultipleLocalAuth
+      - ../plugins/Accessibility:/var/www/src/plugins/Accessibility
+      - ../plugins/AdminLoginAsUser:/var/www/src/plugins/AdminLoginAsUser
+      - ../plugins/SpamDetector:/var/www/src/plugins/SpamDetector
+      - ../plugins/Analytics:/var/www/src/plugins/Analytics
+      - ../plugins/MapasBlame:/var/www/src/plugins/MapasBlame
       - ../themes/IberCulturaViva:/var/www/src/themes/IberCulturaViva
 
     environment:
