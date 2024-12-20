@@ -39,8 +39,7 @@ services:
       - ./docker-data/saas-files:/var/www/var/saas-files
       - ./docker-data/sessions:/var/www/var/sessions
       - ./docker-data/logs:/var/www/var/logs
-
-      - ./docker/production/config.d /var/www/config/prod.d
+      - ./docker/production/config.d:/var/www/config/prod.d
     links:
       - db
       - redis
@@ -67,7 +66,7 @@ services:
       - ./docker-data/sessions:/data
 
   db:
-    image: postgis/postgis:14-master
+    image: postgis/postgis:15-master
     restart: unless-stopped
     environment:
       - POSTGRES_PASSWORD=mapas
