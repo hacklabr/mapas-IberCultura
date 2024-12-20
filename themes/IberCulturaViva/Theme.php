@@ -25,7 +25,7 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
         });
 
         $app->hook('app.init:after', function () {
-            $imagesList[] = 'img/home--intro.jpg';
+            $imagesList[] = 'img/home_feature.jpg';
             $this->config['module.home']['home-header'] = $imagesList[0];
         });
     }
