@@ -1,16 +1,3 @@
 <?php
 use \MapasCulturais\i;
-
-return [
-    "text:home-header.title" => i::__("¡Bienvenid@!"),
-    "text:home-header.description" => i::__("El Mapa IberCultura Viva es una plataforma libre, colaborativa e interactiva, creada para mapear, conectar y dar visibilidad a las iniciativas culturales comunitarias del territorio iberoamericano. Aquí es donde agentes, proyectos, espacios y eventos se encuentran, transformando la diversidad en acción colectiva y ampliando el impacto de la cooperación cultural en la región. Además, la información publicada aquí contribuye a construir y consolidar indicadores que fortalezcan las políticas públicas de cultura viva en los países que integran el Programa: Argentina, Brasil, Chile, Colombia, Costa Rica, El Salvador, Ecuador, España, México, Paraguay, Perú, República Dominicana y Uruguay."),
-    "text:home-entities.opportunities" => i::__("En este espacio encontrarás convocatorias, premios, talleres y otras oportunidades dedicadas a la cultura comunitaria. Además, puedes crear y divulgar tus propias oportunidades para fortalecer redes e intercambios culturales en toda Iberoamérica. ¡No pierdas la oportunidad de participar y colaborar!"),
-    "text:home-entities.events" => i::__("Descubre los eventos culturales que están dinamizando la cultura viva en Iberoamérica. Utilizando las herramientas de búsqueda, puedes localizar eventos cercanos a ti o en cualquier región que quieras explorar. Si estás registrado/a en la plataforma, también puedes divulgar tus propios eventos de forma gratuita, ampliando su alcance e impacto."),
-    "text:home-entities.spaces" => i::__("Busca espacios culturales comunitarios registrados en la plataforma utilizando filtros que te ayudarán a encontrar los lugares que mejor se adapten a tus intereses. También puedes registrar los espacios donde desarrollas tus actividades culturales, contribuyendo a su visibilidad."),
-    "text:home-entities.agents" => i::__("Conéctate con una red de gestores,  artistas, productores y colectivos culturales registrados en el Mapa IberCultura Viva. Regístrate e incluye tu información o la de tu organización o colectivo para fortalecer los lazos con otras iniciativas culturales de Iberoamérica."),
-    "text:home-entities.projects" => i::__("En este espacio encontrarás una gran diversidad de proyectos culturales, leyes de fomento, muestras y convocatorias registradas por los usuarios. Comparte tu iniciativa para inspirar y conectar con otros agentes culturales en la construcción de redes y acciones colaborativas."),
-    "text:home-feature.description" => i::__("Revisá los últimos destacados de cada una de las áreas."),
-    "text:home-register.title" => i::__("Forma parte de esta plataforma libre, colaborativa e interactiva que conecta agentes culturales, iniciativas y espacios en toda Iberoamérica. Contribuye al fortalecimiento de la cultura comunitaria y colabora con la gobernanza cultural participativa."),
-    'text:home-developers.description' => i::__("El Mapa IberCultura Viva es un software libre, desarrollado de manera colaborativa con instituciones, organizaciones y colectivos culturales. Puedes contribuir al desarrollo de la plataforma accediendo al código en GitHub y participando en esta construcción colectiva que fortalece la cultura en Iberoamérica."),
-    "text:home-map.description" => i::__("Los agentes, los espacios y los eventos registrados cuentan con la geolocalización de sus direcciones, encontralos acá:"),
-];
+return [];
