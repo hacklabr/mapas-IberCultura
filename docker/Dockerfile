@@ -1,4 +1,4 @@
-FROM hacklab/mapasculturais:7.5.15-es
+FROM hacklab/mapasculturais:7.6.0-RC
 
 COPY themes /var/www/src/themes
 COPY plugins /var/www/src/plugins
@@ -9,3 +9,5 @@ WORKDIR /var/www
 
 COPY docker/common/config.d /var/www/config/common.d
 COPY docker/production/config.d /var/www/config/config.d
+
+COPY mantenimiento.php /var/www/html/mantenimiento.php
