@@ -6,6 +6,8 @@ return [
     'app.verifiedSealsIds' => '1',
     'cep.token' => '',
 
+    'maps.tileServer' => 'https://tileserver.map.as/{z}/{x}/{y}.png?lang=pt',
+
     'themes.active' => 'IberCulturaViva',
     
     'slim.debug' => true,

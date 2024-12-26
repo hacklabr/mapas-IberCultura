@@ -52,6 +52,12 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
                 $this->config['text:home-developers.description'] = "El Mapa IberCultura Viva es un software libre, desarrollado de manera colaborativa con instituciones, organizaciones y colectivos culturales. Puedes contribuir al desarrollo de la plataforma accediendo al código en GitHub y participando en esta construcción colectiva que fortalece la cultura en Iberoamérica.";
                 $this->config["text:home-map.description"] = "Los agentes, los espacios y los eventos registrados cuentan con la geolocalización de sus direcciones, encontralos acá:";
             }
+
+            if ($this->config['app.lcode'] == 'pt_BR') {
+                $this->config['maps.tileServer'] = 'https://tileserver.map.as/{z}/{x}/{y}.png?lang=pt';
+            } else {
+                $this->config['maps.tileServer'] = 'https://tileserver.map.as/{z}/{x}/{y}.png?lang=es';
+            }
         });
     }
 }
