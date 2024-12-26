@@ -10,4 +10,4 @@ WORKDIR /var/www
 COPY docker/common/config.d /var/www/config/common.d
 COPY docker/production/config.d /var/www/config/config.d
 
-COPY mantenimiento.php /var/www/html/mantenimiento.php
+COPY docker/mantenimiento.php /var/www/html/mantenimiento.php
