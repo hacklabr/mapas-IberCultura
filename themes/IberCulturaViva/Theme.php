@@ -21,14 +21,14 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
 
         $this->enqueueStyle("app-v2", "logo-footer", "css/logo-footer.css");
 
-        $app->hook("template(<<*>>.<<*>>.main-footer-links):after", function(){
+        $app->hook("template(<<*>>.<<*>>.main-footer-links):after", function () {
             $this->part("logo-footer");
         });
-        
+
         $app->hook('app.init:after', function () {
             $imagesList[] = 'img/home_feature.jpg';
             $this->config['module.home']['home-header'] = $imagesList[0];
-            if($this->config['app.lcode'] == 'pt_BR'){
+            if ($this->config['app.lcode'] == 'pt_BR') {
                 $this->config["text:home-header.title"] = "Bem-vind@!";
                 $this->config["text:home-header.description"] = "O Mapa IberCultura Viva é uma plataforma livre, colaborativa e interativa, criada para mapear, conectar e dar visibilidade às iniciativas culturais comunitárias do território Ibero-americano. É aqui que agentes, projetos, espaços e eventos se encontram, transformando a diversidade em ação coletiva e ampliando o impacto da cooperação cultural na região. Além disso, as informações publicadas aqui contribuem para a construir e consolidar indicadores que fortalecem as políticas públicas de cultura viva nos países que integram o Programa: Argentina, Brasil, Chile, Colômbia, Costa Rica, El Salvador, Equador, Espanha, México, Paraguai, Peru, República Dominicana e Uruguai.";
                 $this->config["text:home-entities.opportunities"] = "Aqui você encontra editais, prêmios, oficinas e outras oportunidades voltadas à cultura comunitária. Além disso, pode criar e divulgar suas próprias oportunidades para fortalecer redes e intercâmbios culturais em toda a Ibero-América. Não perca a chance de participar e colaborar!";
@@ -39,8 +39,7 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
                 $this->config["text:home-register.description"] = "Faça parte desta plataforma livre, colaborativa e interativa que conecta agentes culturais, iniciativas e espaços em toda a Ibero-América. Contribua para o fortalecimento da cultura comunitária e colabore com a governança cultural participativa.";
                 $this->config['text:home-developers.description'] = "O Mapa IberCultura Viva é um software livre, desenvolvido de forma colaborativa com instituições, organizações e coletivos culturais. Você pode contribuir para o aprimoramento da plataforma acessando o código no GitHub e participando desta construção coletiva que fortalece a cultura na Ibero-América.";
                 $this->config["text:home-map.description"] = "Os agentes, os espaços e os eventos registrados possuem a geolocalização de seus endereços. Encontre-os aqui:";
-            }
-            else{
+            } else {
                 $this->config["text:home-header.title"] = "¡Bienvenid@!";
                 $this->config["text:home-header.description"] = "El Mapa IberCultura Viva es una plataforma libre, colaborativa e interactiva, creada para mapear, conectar y dar visibilidad a las iniciativas culturales comunitarias del territorio iberoamericano. Aquí es donde agentes, proyectos, espacios y eventos se encuentran, transformando la diversidad en acción colectiva y ampliando el impacto de la cooperación cultural en la región. Además, la información publicada aquí contribuye a construir y consolidar indicadores que fortalezcan las políticas públicas de cultura viva en los países que integran el Programa: Argentina, Brasil, Chile, Colombia, Costa Rica, El Salvador, Ecuador, España, México, Paraguay, Perú, República Dominicana y Uruguay.";
                 $this->config["text:home-entities.opportunities"] = "En este espacio encontrarás convocatorias, premios, talleres y otras oportunidades dedicadas a la cultura comunitaria. Además, puedes crear y divulgar tus propias oportunidades para fortalecer redes e intercambios culturales en toda Iberoamérica. ¡No pierdas la oportunidad de participar y colaborar!";
@@ -59,5 +58,45 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
                 $this->config['maps.tileServer'] = 'https://tileserver.map.as/{z}/{x}/{y}.png?lang=es';
             }
         });
+    }
+
+    function register()
+    {
+        $app = App::i();
+
+        parent::register();
+
+        $this->registerSpaceMetadata('En_Pais', [
+            'label' => \MapasCulturais\i::__('País'),
+            'type' => 'select',
+            'default' => function () {
+                $app = \MapasCulturais\App::i();
+                return $app->config['app.defaultCountry'];
+            },
+            'options' => [
+                'AD' => 'Andorra',
+                'AR' => 'Argentina',
+                'BO' => 'Bolivia',
+                'BR' => 'Brasil',
+                'CL' => 'Chile',
+                'CO' => 'Colombia',
+                'CR' => 'Costa Rica',
+                'CU' => 'Cuba',
+                'EC' => 'Ecuador',
+                'SV' => 'El Salvador',
+                'ES' => 'España',
+                'GT' => 'Guatemala',
+                'HN' => 'Honduras',
+                'MX' => 'México',
+                'NI' => 'Nicarágua',
+                'PA' => 'Panamá',
+                'PY' => 'Paraguay',
+                'PE' => 'Perú',
+                'PT' => 'Portugal',
+                'DO' => 'República Dominicana',
+                'UY' => 'Uruguay',
+                'VE' => 'Venezuela',
+            ]
+        ]);
     }
 }
