@@ -1,8 +1,7 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: mapas\n"
-"POT-Creation-Date: 2025-05-08 12:35-0300\n"
+"POT-Creation-Date: 2025-05-19 15:00-0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: librecoop\n"
@@ -1670,13 +1669,8 @@ msgstr "Calle"
 #: src/themes/BaseV1/layouts/parts/singles/history_agent.php:182
 #: src/themes/BaseV1/layouts/parts/singles/history_space.php:174
 #: src/themes/BaseV1/layouts/parts/singles/location.php:17
-#, fuzzy
 msgid "Complemento"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Localidad, Apto, Esquina, Referencia u Otro dato útil\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Complemento"
+msgstr "Localidad, Apto, Esquina, Referencia u Otro dato útil"
 
 #: src/conf/agent-types.php:527 src/conf/space-types.php:382
 #: src/conf/subsite-types.php:190 src/conf/subsite-types.php:213
@@ -2950,14 +2944,8 @@ msgstr "Tipos de Espacio"
 #: src/themes/BaseV1/layouts/parts/search/list-event-item.php:35
 #: src/themes/BaseV1/layouts/parts/singles/project-events.php:36
 #: src/themes/BaseV1/layouts/parts/singles/subsite-filters.php:84
-#, fuzzy
 msgid "Linguagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tipo de evento\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tipo de evento\"  # Already translated - \"Lenguaje\" would be literal but "
-"\"Tipo de evento\" seems more contextual her"
+msgstr "Tipo de evento"
 
 #: src/conf/subsite-types.php:332
 msgid "Texto boas vindas"
@@ -3159,22 +3147,12 @@ msgid "Audiovisual Expandido"
 msgstr "Audiovisual Expandido"
 
 #: src/conf/taxonomies.php:55
-#, fuzzy
 msgid "Axé"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Axé\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Axé\"  # Mantenido como término cultura"
+msgstr "Axé"
 
 #: src/conf/taxonomies.php:56
-#, fuzzy
 msgid "Baião"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Baião\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Baião\"  # Género musical, se conserv"
+msgstr "Baião"
 
 #: src/conf/taxonomies.php:57
 msgid "Baião (dança)"
@@ -3193,31 +3171,16 @@ msgid "Banda Sinfônica"
 msgstr "Banda Sinfónica"
 
 #: src/conf/taxonomies.php:61
-#, fuzzy
 msgid "Bandas de Congo e Ticumbi"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Bandas de Congo y Ticumbi\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Bandas de Congo y Ticumbi\"  # Tradición afrobrasileñ"
+msgstr "Bandas de Congo y Ticumbi"
 
 #: src/conf/taxonomies.php:62 src/themes/BaseV1/Theme.php:251
-#, fuzzy
 msgid "Biblioteca"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Biblioteca\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Biblioteca\"  # Ya traducid"
+msgstr "Biblioteca"
 
 #: src/conf/taxonomies.php:63
-#, fuzzy
 msgid "Biblioteca tombada"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Biblioteca declarada patrimonio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Biblioteca declarada patrimonio\"  # \"Tombada\" = protegida por le"
+msgstr "Biblioteca declarada patrimonio"
 
 #: src/conf/taxonomies.php:64
 msgid "Biblioteconomia"
@@ -3232,22 +3195,12 @@ msgid "Biografia e Autobiografia"
 msgstr "Biografía y Autobiografía"
 
 #: src/conf/taxonomies.php:67
-#, fuzzy
 msgid "Bloco de Carnaval"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comparsa de Carnaval\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comparsa de Carnaval\"  # \"Bloco\" = agrupación carnavalesc"
+msgstr "Comparsa de Carnaval"
 
 #: src/conf/taxonomies.php:68
-#, fuzzy
 msgid "Boi Bumbá"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Boi Bumbá\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Boi Bumbá\"  # Folclore amazónico, se conserv"
+msgstr "Boi Bumbá"
 
 #: src/conf/taxonomies.php:69
 msgid "Bordado"
@@ -3258,31 +3211,16 @@ msgid "Breakdance"
 msgstr "Breakdance"
 
 #: src/conf/taxonomies.php:71
-#, fuzzy
 msgid "Brega Funk"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Brega Funk\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Brega Funk\"  # Género musical brasileñ"
+msgstr "Brega Funk"
 
 #: src/conf/taxonomies.php:72
-#, fuzzy
 msgid "Caboclinho"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Caboclinho\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Caboclinho\"  # Danza tradiciona"
+msgstr "Caboclinho"
 
 #: src/conf/taxonomies.php:73
-#, fuzzy
 msgid "Caçada da Rainha"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cacería de la Reina\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cacería de la Reina\"  # Tradición folclóric"
+msgstr "Cacería de la Reina"
 
 #: src/conf/taxonomies.php:74
 msgid "Calypso"
@@ -3297,22 +3235,12 @@ msgid "Canto Coral"
 msgstr "Canto Coral"
 
 #: src/conf/taxonomies.php:77
-#, fuzzy
 msgid "Capoeira"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Capoeira\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Capoeira\"  # Patrimonio cultural, no se traduc"
+msgstr "Capoeira"
 
 #: src/conf/taxonomies.php:78
-#, fuzzy
 msgid "Carimbó"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Carimbó\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Carimbó\"  # Ritmo amazónic"
+msgstr "Carimbó"
 
 #: src/conf/taxonomies.php:79
 msgid "Carimbó (Dança)"
@@ -3323,22 +3251,12 @@ msgid "Carnaval"
 msgstr "Carnaval"
 
 #: src/conf/taxonomies.php:81
-#, fuzzy
 msgid "Cavalhadas"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cabalgadas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cabalgadas\"  # Representación históric"
+msgstr "Cabalgadas"
 
 #: src/conf/taxonomies.php:82
-#, fuzzy
 msgid "Cavalo Marinho"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Caballo Marino\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Caballo Marino\"  # Teatro popular nordestin"
+msgstr "Caballo Marino"
 
 #: src/conf/taxonomies.php:83
 msgid "Centro de Memória e patrimônio"
@@ -3349,36 +3267,21 @@ msgid "Ciência Política"
 msgstr "Ciencia Política"
 
 #: src/conf/taxonomies.php:85 src/conf/taxonomies.php:424
-#, fuzzy
 msgid "Cinema"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cine\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cine\"  # Ya traducid"
+msgstr "Cine"
 
 #: src/conf/taxonomies.php:86
 msgid "Cinemateca"
 msgstr "Cinemateca"
 
 #: src/conf/taxonomies.php:87
-#, fuzzy
 msgid "Ciranda"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ciranda\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ciranda\"  # Danza y música nordestin"
+msgstr "Ciranda"
 
 #: src/conf/taxonomies.php:88 src/modules/OpportunityWorkplan/Module.php:231
 #: src/modules/OpportunityWorkplan/Module.php:483
-#, fuzzy
 msgid "Circo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Circo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Circo\"  # Ya traducid"
+msgstr "Circo"
 
 #: src/conf/taxonomies.php:89
 msgid "Circo Contemporâneo"
@@ -3389,44 +3292,24 @@ msgid "Circo de Rua"
 msgstr "Circo Callejero"
 
 #: src/conf/taxonomies.php:93
-#, fuzzy
 msgid "Coco"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coco\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coco\"  # Ritmo tradiciona"
+msgstr "Coco"
 
 #: src/conf/taxonomies.php:94
 msgid "Comédia"
 msgstr "Comedia"
 
 #: src/conf/taxonomies.php:95
-#, fuzzy
 msgid "Comunicação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comunicación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comunicación\"  # Ya traducid"
+msgstr "Comunicación"
 
 #: src/conf/taxonomies.php:96
-#, fuzzy
 msgid "Congada"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Congada\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Congada\"  # Expresión afrobrasileñ"
+msgstr "Congada"
 
 #: src/conf/taxonomies.php:97
-#, fuzzy
 msgid "Congado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Congado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Congado\"  # Similar a Congad"
+msgstr "Congado"
 
 #: src/conf/taxonomies.php:98
 msgid "Contação de histórias"
@@ -3441,13 +3324,8 @@ msgid "Conto"
 msgstr "Cuento"
 
 #: src/conf/taxonomies.php:101
-#, fuzzy
 msgid "Cordel"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Literatura de Cordel\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Literatura de Cordel\"  # Género literario nordestin"
+msgstr "Literatura de Cordel"
 
 #: src/conf/taxonomies.php:102
 msgid "Criação literária"
@@ -3474,35 +3352,20 @@ msgid "Cultura Alimentar"
 msgstr "Cultura Alimentaria"
 
 #: src/conf/taxonomies.php:108
-#, fuzzy
 msgid "Cultura Cigana"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Gitana\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Gitana\"  # Ya traducid"
+msgstr "Cultura Gitana"
 
 #: src/conf/taxonomies.php:109
 msgid "Cultura da juventude de povos e comunidades tradicionais"
 msgstr "Cultura de la juventud de pueblos y comunidades tradicionales"
 
 #: src/conf/taxonomies.php:110
-#, fuzzy
 msgid "Cultura das comunidades de fundo e fecho de pasto"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de las comunidades de fondo y cierre de pasto\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de las comunidades de fondo y cierre de pasto\"  # Término específic"
+msgstr "Cultura de las comunidades de fondo y cierre de pasto"
 
 #: src/conf/taxonomies.php:111
-#, fuzzy
 msgid "Cultura das comunidades quilombolas"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de las comunidades quilombolas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de las comunidades quilombolas\"  # Comunidades afrodescendiente"
+msgstr "Cultura de las comunidades quilombolas"
 
 #: src/conf/taxonomies.php:112
 msgid "Cultura das quebradeiras de coco babaçu"
@@ -3513,13 +3376,8 @@ msgid "Cultura DEF"
 msgstr ""
 
 #: src/conf/taxonomies.php:114 src/conf/taxonomies.php:425
-#, fuzzy
 msgid "Cultura Digital"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Digital\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Digital\"  # Ya traducid"
+msgstr "Cultura Digital"
 
 #: src/conf/taxonomies.php:115
 msgid "Cultura do Povo Arara"
@@ -3630,13 +3488,8 @@ msgid "Cultura do Povo Pataxó"
 msgstr "Cultura del Pueblo Pataxó"
 
 #: src/conf/taxonomies.php:142
-#, fuzzy
 msgid "Cultura do povo pomerano"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura del pueblo pomerano\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura del pueblo pomerano\"  # Comunidad germánica en Brasi"
+msgstr "Cultura del pueblo pomerano"
 
 #: src/conf/taxonomies.php:143
 msgid "Cultura do Povo Suruí"
@@ -3703,160 +3556,80 @@ msgid "Cultura do Povo Zoró"
 msgstr "Cultura del Pueblo Zoró"
 
 #: src/conf/taxonomies.php:159
-#, fuzzy
 msgid "Cultura dos andirobeiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los andiroberos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los andiroberos\"  # Recolectores de andiroba (árbol amazónico"
+msgstr "Cultura de los andiroberos"
 
 #: src/conf/taxonomies.php:160
-#, fuzzy
 msgid "Cultura dos apanhadores de flores sempre vivas"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los recolectores de flores siempre vivas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los recolectores de flores siempre vivas\"  # Comunidad tradiciona"
+msgstr "Cultura de los recolectores de flores siempre vivas"
 
 #: src/conf/taxonomies.php:161
-#, fuzzy
 msgid "Cultura dos benzedeiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los rezanderos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los rezanderos\"  # Curanderos tradicionale"
+msgstr "Cultura de los rezanderos"
 
 #: src/conf/taxonomies.php:162
-#, fuzzy
 msgid "Cultura dos caatingueiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los caatingueiros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los caatingueiros\"  # Habitantes de la Caatinga (bioma brasileño"
+msgstr "Cultura de los caatingueiros"
 
 #: src/conf/taxonomies.php:163
-#, fuzzy
 msgid "Cultura dos caboclos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los caboclos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los caboclos\"  # Mestizos rurale"
+msgstr "Cultura de los caboclos"
 
 #: src/conf/taxonomies.php:164
-#, fuzzy
 msgid "Cultura dos caiçaras"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los caiçaras\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los caiçaras\"  # Comunidades costeras del surest"
+msgstr "Cultura de los caiçaras"
 
 #: src/conf/taxonomies.php:165
-#, fuzzy
 msgid "Cultura dos catadores de mangaba"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los recolectores de mangaba\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los recolectores de mangaba\"  # Fruto típic"
+msgstr "Cultura de los recolectores de mangaba"
 
 #: src/conf/taxonomies.php:166
-#, fuzzy
 msgid "Cultura dos cipozeiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los cipozeiros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los cipozeiros\"  # Recolectores de lianas (cipó"
+msgstr "Cultura de los cipozeiros"
 
 #: src/conf/taxonomies.php:167
-#, fuzzy
 msgid "Cultura dos extrativistas"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los extractivistas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los extractivistas\"  # Ya traducido en otro context"
+msgstr "Cultura de los extractivistas"
 
 #: src/conf/taxonomies.php:168
 msgid "Cultura dos extrativistas costeiros e marinhos"
 msgstr "Cultura de los extractivistas costeros y marinos"
 
 #: src/conf/taxonomies.php:169
-#, fuzzy
 msgid "Cultura dos faxinalenses"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los faxinalenses\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los faxinalenses\"  # Sistema agrícola tradiciona"
+msgstr "Cultura de los faxinalenses"
 
 #: src/conf/taxonomies.php:170
-#, fuzzy
 msgid "Cultura dos geraizeiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los geraizeiros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los geraizeiros\"  # Pobladores del cerrad"
+msgstr "Cultura de los geraizeiros"
 
 #: src/conf/taxonomies.php:171
 msgid "Cultura dos ilhéus"
 msgstr "Cultura de los isleños"
 
 #: src/conf/taxonomies.php:172
-#, fuzzy
 msgid "Cultura dos morroquianos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los morroquianos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los morroquianos\"  # Habitantes de morros (cerros"
+msgstr "Cultura de los morroquianos"
 
 #: src/conf/taxonomies.php:173
-#, fuzzy
 msgid "Cultura dos pantaneiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pantaneros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pantaneros\"  # Habitantes del Pantana"
+msgstr "Cultura de los pantaneros"
 
 #: src/conf/taxonomies.php:174
-#, fuzzy
 msgid "Cultura dos pescadores artesanais"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pescadores artesanales\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pescadores artesanales\"  # Ya traducido en otro context"
+msgstr "Cultura de los pescadores artesanales"
 
 #: src/conf/taxonomies.php:175
-#, fuzzy
 msgid "Cultura dos povos ciganos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pueblos gitanos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pueblos gitanos\"  # Ya traducido como \"gitana"
+msgstr "Cultura de los pueblos gitanos"
 
 #: src/conf/taxonomies.php:176
-#, fuzzy
 msgid ""
 "Cultura dos povos e comunidades de terreiro/povos e comunidades de matriz "
 "africana"
 msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
 "Cultura de los pueblos y comunidades de terreiro/pueblos y comunidades de "
-"matriz africana\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los pueblos y comunidades de terreiro/pueblos y comunidades de "
-"matriz africana\"  # Religiones afrobrasileña"
+"matriz africana"
 
 #: src/conf/taxonomies.php:177
 msgid "Cultura dos Povos Nômades"
@@ -3867,67 +3640,32 @@ msgid "Cultura dos Povos Originários"
 msgstr "Cultura de los Pueblos Originarios"
 
 #: src/conf/taxonomies.php:179
-#, fuzzy
 msgid "Cultura dos raizeiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los raizeros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los raizeros\"  # Recolectores de raíces medicinale"
+msgstr "Cultura de los raizeros"
 
 #: src/conf/taxonomies.php:180
-#, fuzzy
 msgid "Cultura dos retireiros do Araguaia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los retireiros del Araguaia\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los retireiros del Araguaia\"  # Ganaderos tradicionale"
+msgstr "Cultura de los retireiros del Araguaia"
 
 #: src/conf/taxonomies.php:181
-#, fuzzy
 msgid "Cultura dos ribeirinhos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los ribereños\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los ribereños\"  # Ya traducido en otro context"
+msgstr "Cultura de los ribereños"
 
 #: src/conf/taxonomies.php:182
-#, fuzzy
 msgid "Cultura dos vazanteiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los vazanteiros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los vazanteiros\"  # Agricultores de tierras inundable"
+msgstr "Cultura de los vazanteiros"
 
 #: src/conf/taxonomies.php:183
-#, fuzzy
 msgid "Cultura dos veredeiros"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los veredeiros\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura de los veredeiros\"  # Habitantes de veredas (humedales"
+msgstr "Cultura de los veredeiros"
 
 #: src/conf/taxonomies.php:184
-#, fuzzy
 msgid "Cultura e Bem Viver"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura y Buen Vivir\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura y Buen Vivir\"  # Concepto filosófic"
+msgstr "Cultura y Buen Vivir"
 
 #: src/conf/taxonomies.php:185
-#, fuzzy
 msgid "Cultura e Comunicação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura y Comunicación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura y Comunicación\"  # Ya traducido en otro context"
+msgstr "Cultura y Comunicación"
 
 #: src/conf/taxonomies.php:186
 msgid "Cultura e decolonialidade"
@@ -3942,13 +3680,8 @@ msgid "Cultura e Direitos Humanos"
 msgstr "Cultura y Derechos Humanos"
 
 #: src/conf/taxonomies.php:189
-#, fuzzy
 msgid "Cultura e Educação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura y Educación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura y Educación\"  # Ya traducido en otro context"
+msgstr "Cultura y Educación"
 
 #: src/conf/taxonomies.php:190
 msgid "Cultura e Esporte"
@@ -3979,67 +3712,32 @@ msgid "Cultura e Turismo"
 msgstr "Cultura y Turismo"
 
 #: src/conf/taxonomies.php:197
-#, fuzzy
 msgid "Cultura Estrangeira (imigrantes)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Extranjera (inmigrantes)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Extranjera (inmigrantes)\"  # Ya traducid"
+msgstr "Cultura Extranjera (inmigrantes)"
 
 #: src/conf/taxonomies.php:198
-#, fuzzy
 msgid "Cultura Hip Hop"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Hip Hop\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Hip Hop\"  # Movimiento global, se conserv"
+msgstr "Cultura Hip Hop"
 
 #: src/conf/taxonomies.php:199
-#, fuzzy
 msgid "Cultura Italiana"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Italiana\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Italiana\"  # Ya traducid"
+msgstr "Cultura Italiana"
 
 #: src/conf/taxonomies.php:200
-#, fuzzy
 msgid "Cultura Japonesa"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Japonesa\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Japonesa\"  # Ya traducid"
+msgstr "Cultura Japonesa"
 
 #: src/conf/taxonomies.php:201
-#, fuzzy
 msgid "Cultura LGBTQIAPN+"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura LGBTQIAPN+\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura LGBTQIAPN+\"  # Sigla internaciona"
+msgstr "Cultura LGBTQIAPN+"
 
 #: src/conf/taxonomies.php:202
-#, fuzzy
 msgid "Cultura Negra"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Negra\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Negra\"  # Ya traducid"
+msgstr "Cultura Negra"
 
 #: src/conf/taxonomies.php:203
-#, fuzzy
 msgid "Cultura Urbana"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Urbana\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Urbana\"  # Ya traducid"
+msgstr "Cultura Urbana"
 
 #: src/conf/taxonomies.php:204
 msgid "Cultura, Infância e Adolescência"
@@ -4059,13 +3757,8 @@ msgid "Culturas dos Povos Originários"
 msgstr "Culturas de los Pueblos Originarios"
 
 #: src/conf/taxonomies.php:208
-#, fuzzy
 msgid "Culturas Populares"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Culturas Populares\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Culturas Populares\"  # Ya traducido como \"Cultura Popular"
+msgstr "Culturas Populares"
 
 #: src/conf/taxonomies.php:209
 msgid "Culturas Tradicionais"
@@ -4079,13 +3772,8 @@ msgstr "Culturas Tradicionales y Populares"
 #: src/conf/taxonomies.php:211 src/conf/taxonomies.php:429
 #: src/modules/OpportunityWorkplan/Module.php:234
 #: src/modules/OpportunityWorkplan/Module.php:486
-#, fuzzy
 msgid "Dança"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danza\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danza\"  # Ya traducid"
+msgstr "Danza"
 
 #: src/conf/taxonomies.php:212
 msgid "Dança Afro"
@@ -4108,13 +3796,8 @@ msgid "Dança Moderna"
 msgstr "Danza Moderna"
 
 #: src/conf/taxonomies.php:217
-#, fuzzy
 msgid "Dança Silvestre"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danza Silvestre\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danza Silvestre\"  # Estilo específico, se conserv"
+msgstr "Danza Silvestre"
 
 #: src/conf/taxonomies.php:218
 msgid "Danças Clássicas"
@@ -4129,13 +3812,8 @@ msgid "Danças Estrangeiras"
 msgstr "Danzas Extranjeras"
 
 #: src/conf/taxonomies.php:221
-#, fuzzy
 msgid "Danças Populares"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danzas Populares\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danzas Populares\"  # Ya traducido en otro context"
+msgstr "Danzas Populares"
 
 #: src/conf/taxonomies.php:222
 msgid "Danças Urbanas"
@@ -4150,13 +3828,8 @@ msgid "Desenho Industrial"
 msgstr "Diseño Industrial"
 
 #: src/conf/taxonomies.php:225
-#, fuzzy
 msgid "Design"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseño\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseño\"  # Ya traducid"
+msgstr "Diseño"
 
 #: src/conf/taxonomies.php:226
 msgid "Design de Interiores"
@@ -4196,13 +3869,8 @@ msgid "Direito"
 msgstr "Derecho"
 
 #: src/conf/taxonomies.php:235
-#, fuzzy
 msgid "Direito Autoral"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Derecho de Autor\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Derecho de Autor\"  # Mejor que \"Derecho Actoral\" (error previo"
+msgstr "Derecho de Autor"
 
 #: src/conf/taxonomies.php:236
 msgid "Documentário"
@@ -4234,13 +3902,8 @@ msgid "Epopeia"
 msgstr "Epopeya"
 
 #: src/conf/taxonomies.php:243
-#, fuzzy
 msgid "Escola de Samba"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Escuela de Samba\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Escuela de Samba\"  # Término cultural brasileñ"
+msgstr "Escuela de Samba"
 
 #: src/conf/taxonomies.php:244
 msgid "Escultura (Artes Visuais)"
@@ -4259,45 +3922,25 @@ msgid "Fábula"
 msgstr "Fábula"
 
 #: src/conf/taxonomies.php:248
-#, fuzzy
 msgid "Fandango"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fandango\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fandango\"  # Baile tradiciona"
+msgstr "Fandango"
 
 #: src/conf/taxonomies.php:249
 msgid "Fanfarra"
 msgstr "Fanfarria"
 
 #: src/conf/taxonomies.php:250
-#, fuzzy
 msgid "Festa do Divino"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fiesta del Divino\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fiesta del Divino\"  # Celebración religiosa tradiciona"
+msgstr "Fiesta del Divino"
 
 #: src/conf/taxonomies.php:251 src/modules/OpportunityWorkplan/Module.php:237
 #: src/modules/OpportunityWorkplan/Module.php:489
-#, fuzzy
 msgid "Festas Populares"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fiestas Populares\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fiestas Populares\"  # Ya traducido en otro context"
+msgstr "Fiestas Populares"
 
 #: src/conf/taxonomies.php:252
-#, fuzzy
 msgid "Festejos Juninos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Festejos Juninos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Festejos Juninos\"  # Fiestas de San Juan (patrimonio cultural"
+msgstr "Festejos Juninos"
 
 #: src/conf/taxonomies.php:253
 msgid "Ficção"
@@ -4312,88 +3955,48 @@ msgid "Filologia"
 msgstr "Filología"
 
 #: src/conf/taxonomies.php:256
-#, fuzzy
 msgid "Filosofia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Filosofía\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Filosofía\"  # Ya traducid"
+msgstr "Filosofía"
 
 #: src/conf/taxonomies.php:257
-#, fuzzy
 msgid "Folia de Reis"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Folia de Reyes\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Folia de Reyes\"  # Tradición navideñ"
+msgstr "Folia de Reyes"
 
 #: src/conf/taxonomies.php:258
 msgid "Fomento editorial"
 msgstr "Fomento editorial"
 
 #: src/conf/taxonomies.php:259
-#, fuzzy
 msgid "Forró"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Forró\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Forró\"  # Género musical brasileñ"
+msgstr "Forró"
 
 #: src/conf/taxonomies.php:260
 msgid "Forró (Dança)"
 msgstr "Forró (Danza)"
 
 #: src/conf/taxonomies.php:261
-#, fuzzy
 msgid "Fotografia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fotografía\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fotografía\"  # Ya traducid"
+msgstr "Fotografía"
 
 #: src/conf/taxonomies.php:262
-#, fuzzy
 msgid "Frevo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Frevo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Frevo\"  # Patrimonio cultural de Pernambuc"
+msgstr "Frevo"
 
 #: src/conf/taxonomies.php:263
 msgid "Frevo (dança)"
 msgstr "Frevo (danza)"
 
 #: src/conf/taxonomies.php:264
-#, fuzzy
 msgid "Funk"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Funk\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Funk\"  # Movimiento musical globa"
+msgstr "Funk"
 
 #: src/conf/taxonomies.php:265
-#, fuzzy
 msgid "Fuxico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fuxico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fuxico\"  # Arte textil tradiciona"
+msgstr "Fuxico"
 
 #: src/conf/taxonomies.php:266
-#, fuzzy
 msgid "Gastronomia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gastronomía\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gastronomía\"  # Ya traducid"
+msgstr "Gastronomía"
 
 #: src/conf/taxonomies.php:267
 msgid "Geografia Humana"
@@ -4404,76 +4007,41 @@ msgid "Gestão criativa"
 msgstr "Gestión creativa"
 
 #: src/conf/taxonomies.php:269
-#, fuzzy
 msgid "Gestão Cultural"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestión Cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestión Cultural\"  # Ya traducid"
+msgstr "Gestión Cultural"
 
 #: src/conf/taxonomies.php:270
-#, fuzzy
 msgid "Grafite"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Grafiti\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Grafiti\"  # Arte urban"
+msgstr "Grafiti"
 
 #: src/conf/taxonomies.php:271
 msgid "Gravura"
 msgstr "Grabado"
 
 #: src/conf/taxonomies.php:272
-#, fuzzy
 msgid "Guarânia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guarania\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guarania\"  # Género musical paraguayo/brasileñ"
+msgstr "Guarania"
 
 #: src/conf/taxonomies.php:273
-#, fuzzy
 msgid "História"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Historia\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Historia\"  # Ya traducid"
+msgstr "Historia"
 
 #: src/conf/taxonomies.php:274 src/modules/OpportunityWorkplan/Module.php:238
 #: src/modules/OpportunityWorkplan/Module.php:490
-#, fuzzy
 msgid "Humanidades"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Humanidades\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Humanidades\"  # Ya traducid"
+msgstr "Humanidades"
 
 #: src/conf/taxonomies.php:275
-#, fuzzy
 msgid "Imóvel tombado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Inmueble declarado patrimonio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Inmueble declarado patrimonio\"  # \"Tombado\" = protegido por le"
+msgstr "Inmueble declarado patrimonio"
 
 #: src/conf/taxonomies.php:276
 msgid "Internet Podcasting"
 msgstr "Podcasting en Internet"
 
 #: src/conf/taxonomies.php:277
-#, fuzzy
 msgid "Interseccionalidades"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Interseccionalidades\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Interseccionalidades\"  # Término sociológic"
+msgstr "Interseccionalidades"
 
 #: src/conf/taxonomies.php:278
 msgid "Intervenção Urbana"
@@ -4488,53 +4056,28 @@ msgid "Jogos Eletrônicos/Games"
 msgstr "Juegos Electrónicos/Videojuegos"
 
 #: src/conf/taxonomies.php:281
-#, fuzzy
 msgid "Jongo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Jongo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Jongo\"  # Danza afrobrasileñ"
+msgstr "Jongo"
 
 #: src/conf/taxonomies.php:282
 msgid "Jornais e outros periódicos"
 msgstr "Periódicos y otras publicaciones"
 
 #: src/conf/taxonomies.php:283
-#, fuzzy
 msgid "K-pop Dance"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danza K-pop\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Danza K-pop\"  # Coreano, se mantiene \"K-pop"
+msgstr "Danza K-pop"
 
 #: src/conf/taxonomies.php:284
-#, fuzzy
 msgid "Lambada"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Lambada\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Lambada\"  # Baile brasileño internaciona"
+msgstr "Lambada"
 
 #: src/conf/taxonomies.php:285
-#, fuzzy
 msgid "Lapidação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Lapidación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Lapidación\"  # Arte de tallar piedra"
+msgstr "Lapidación"
 
 #: src/conf/taxonomies.php:286
-#, fuzzy
 msgid "Leitura"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Lectura\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Lectura\"  # Ya traducid"
+msgstr "Lectura"
 
 #: src/conf/taxonomies.php:287
 msgid "Lenda"
@@ -4545,39 +4088,24 @@ msgid "Letras e Literatura (Humanidades)"
 msgstr "Letras y Literatura (Humanidades)"
 
 #: src/conf/taxonomies.php:289
-#, fuzzy
 msgid "Lidas Campeiras"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Labores Camperas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Labores Camperas\"  # Cultura gauch"
+msgstr "Labores Camperas"
 
 #: src/conf/taxonomies.php:290
 msgid "Linguística"
 msgstr "Lingüística"
 
 #: src/conf/taxonomies.php:291
-#, fuzzy
 msgid "Literatura"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Literatura\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Literatura\"  # Ya traducid"
+msgstr "Literatura"
 
 #: src/conf/taxonomies.php:292
 msgid "Literatura Infantil"
 msgstr "Literatura Infantil"
 
 #: src/conf/taxonomies.php:293
-#, fuzzy
 msgid "Livro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Libro\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Libro\"  # Ya traducid"
+msgstr "Libro"
 
 #: src/conf/taxonomies.php:294 src/modules/OpportunityWorkplan/Module.php:239
 #: src/modules/OpportunityWorkplan/Module.php:491
@@ -4589,26 +4117,16 @@ msgid "Macramê"
 msgstr "Macramé"
 
 #: src/conf/taxonomies.php:296
-#, fuzzy
 msgid "Maracatu"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maracatu\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maracatu\"  # Ritmo y danza afrobrasileñ"
+msgstr "Maracatu"
 
 #: src/conf/taxonomies.php:297
 msgid "Maracatu (Dança)"
 msgstr "Maracatu (Danza)"
 
 #: src/conf/taxonomies.php:298
-#, fuzzy
 msgid "Marujada"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Marujada\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Marujada\"  # Fiesta tradiciona"
+msgstr "Marujada"
 
 #: src/conf/taxonomies.php:299
 msgid "Mediação de Leitura"
@@ -4623,39 +4141,24 @@ msgid "Mídias Interativas"
 msgstr "Medios Interactivos"
 
 #: src/conf/taxonomies.php:302
-#, fuzzy
 msgid "Mídias Sociais"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Redes Sociales\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Redes Sociales\"  # More common than \"Medios Sociales"
+msgstr "Redes Sociales"
 
 #: src/conf/taxonomies.php:303
 msgid "Mito"
 msgstr "Mito"
 
 #: src/conf/taxonomies.php:304
-#, fuzzy
 msgid "Moda de Viola"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Sertaneja\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Sertaneja\"  # Traditional Brazilian country music styl"
+msgstr "Música Sertaneja"
 
 #: src/conf/taxonomies.php:305
 msgid "Mosaico"
 msgstr "Mosaico"
 
 #: src/conf/taxonomies.php:306
-#, fuzzy
 msgid "Movimento Sound System"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Movimiento Sound System\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Movimiento Sound System\"  # Cultural movemen"
+msgstr "Movimiento Sound System"
 
 #: src/conf/taxonomies.php:307
 msgid "Museologia"
@@ -4666,23 +4169,13 @@ msgid "Museu (Patrimônio Material)"
 msgstr "Museo (Patrimonio Material)"
 
 #: src/conf/taxonomies.php:309
-#, fuzzy
 msgid "Museu tombado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Museo declarado patrimonio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Museo declarado patrimonio\"  # Following \"tombado\" patter"
+msgstr "Museo declarado patrimonio"
 
 #: src/conf/taxonomies.php:310 src/modules/OpportunityWorkplan/Module.php:240
 #: src/modules/OpportunityWorkplan/Module.php:492
-#, fuzzy
 msgid "Música"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música\"  # Already translate"
+msgstr "Música"
 
 #: src/conf/taxonomies.php:311
 msgid "Música de Câmara"
@@ -4701,49 +4194,24 @@ msgid "Música Instrumental"
 msgstr "Música Instrumental"
 
 #: src/conf/taxonomies.php:315 src/conf/taxonomies.php:433
-#, fuzzy
 msgid "Música Popular"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Popular\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Popular\"  # Already translate"
+msgstr "Música Popular"
 
 #: src/conf/taxonomies.php:316
-#, fuzzy
 msgid "Musical"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Musical\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Musical\"  # Theater genr"
+msgstr "Musical"
 
 #: src/conf/taxonomies.php:317
-#, fuzzy
 msgid "Novela"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Novela\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Telenovela\"  # Specific TV genr"
+msgstr "Novela"
 
 #: src/conf/taxonomies.php:318
-#, fuzzy
 msgid "Obra Seriada"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Obra Seriada\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Obra Seriada\"  # Literary/artistic ter"
+msgstr "Obra Seriada"
 
 #: src/conf/taxonomies.php:319
-#, fuzzy
 msgid "Oktober Fest"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Oktoberfest\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Oktoberfest\"  # International nam"
+msgstr "Oktoberfest"
 
 #: src/conf/taxonomies.php:320
 msgid "Ópera"
@@ -4778,13 +4246,8 @@ msgid "Paisagens Culturais"
 msgstr "Paisajes Culturales"
 
 #: src/conf/taxonomies.php:328
-#, fuzzy
 msgid "Patrimônio Cultural"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Patrimonio Cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Patrimonio Cultural\"  # Already translate"
+msgstr "Patrimonio Cultural"
 
 #: src/conf/taxonomies.php:329 src/modules/OpportunityWorkplan/Module.php:241
 #: src/modules/OpportunityWorkplan/Module.php:493
@@ -4802,13 +4265,8 @@ msgstr "Patrimonio Histórico Edificado"
 
 #: src/conf/taxonomies.php:332 src/modules/OpportunityWorkplan/Module.php:243
 #: src/modules/OpportunityWorkplan/Module.php:495
-#, fuzzy
 msgid "Performance"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Performance\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Performance\"  # Art term, commonly used in Spanis"
+msgstr "Performance"
 
 #: src/conf/taxonomies.php:333
 msgid "Performance Literária"
@@ -4831,26 +4289,16 @@ msgid "Políticas e Gestão Culturais"
 msgstr "Políticas y Gestión Culturales"
 
 #: src/conf/taxonomies.php:339
-#, fuzzy
 msgid "Procissão do Fogaréu"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Procesión del Fogaréu\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Procesión del Fogaréu\"  # Religious traditio"
+msgstr "Procesión del Fogaréu"
 
 #: src/conf/taxonomies.php:340
 msgid "Produção Audiovisual"
 msgstr "Producción Audiovisual"
 
 #: src/conf/taxonomies.php:341
-#, fuzzy
 msgid "Produção Cultural"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Producción Cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Producción Cultural\"  # Already translate"
+msgstr "Producción Cultural"
 
 #: src/conf/taxonomies.php:342
 msgid "Produção de Eventos"
@@ -4861,182 +4309,92 @@ msgid "Psicologia"
 msgstr "Psicología"
 
 #: src/conf/taxonomies.php:344
-#, fuzzy
 msgid "Punk"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Punk\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Punk\"  # Music genre, international ter"
+msgstr "Punk"
 
 #: src/conf/taxonomies.php:345 src/conf/taxonomies.php:436
-#, fuzzy
 msgid "Rádio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Radio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Radio\"  # Already translate"
+msgstr "Radio"
 
 #: src/conf/taxonomies.php:347
 msgid "Rádio e TV"
 msgstr "Radio y Televisión"
 
 #: src/conf/taxonomies.php:348
-#, fuzzy
 msgid "Rap"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rap\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rap\"  # Music genre, international ter"
+msgstr "Rap"
 
 #: src/conf/taxonomies.php:349
-#, fuzzy
 msgid "Rasqueado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rasqueado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rasqueado\"  # Traditional Brazilian music styl"
+msgstr "Rasqueado"
 
 #: src/conf/taxonomies.php:350
 msgid "Realidade Virtual"
 msgstr "Realidad Virtual"
 
 #: src/conf/taxonomies.php:351
-#, fuzzy
 msgid "Reggae"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Reggae\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Reggae\"  # International music genr"
+msgstr "Reggae"
 
 #: src/conf/taxonomies.php:352
-#, fuzzy
 msgid "Reisado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Reisado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Reisado\"  # Traditional Brazilian Christmas celebratio"
+msgstr "Reisado"
 
 #: src/conf/taxonomies.php:354
-#, fuzzy
 msgid "Renda de Bilro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Encaje de Bolillos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Encaje de Bolillos\"  # Traditional lace-making techniqu"
+msgstr "Encaje de Bolillos"
 
 #: src/conf/taxonomies.php:355
-#, fuzzy
 msgid "Repente"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Repente\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Repente\"  # Brazilian musical improvisation styl"
+msgstr "Repente"
 
 #: src/conf/taxonomies.php:356
 msgid "Rima e improviso"
 msgstr "Rima e improvisación"
 
 #: src/conf/taxonomies.php:357
-#, fuzzy
 msgid "Rock"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rock\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rock\"  # International music genr"
+msgstr "Rock"
 
 #: src/conf/taxonomies.php:358
-#, fuzzy
 msgid "Romance"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Novela\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Novela\"  # Literary genr"
+msgstr "Novela"
 
 #: src/conf/taxonomies.php:359
-#, fuzzy
 msgid "Romaria do Divino Pai Eterno"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Romería del Divino Padre Eterno\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Romería del Divino Padre Eterno\"  # Religious pilgrimag"
+msgstr "Romería del Divino Padre Eterno"
 
 #: src/conf/taxonomies.php:360
-#, fuzzy
 msgid "Salsa (Dança)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Salsa (Baile)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Salsa (Baile)\"  # Dance styl"
+msgstr "Salsa (Baile)"
 
 #: src/conf/taxonomies.php:361
-#, fuzzy
 msgid "Salvaguarda do Patrimônio Cultural Imaterial"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Salvaguardia del Patrimonio Cultural Inmaterial\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Salvaguardia del Patrimonio Cultural Inmaterial\"  # UNESCO terminolog"
+msgstr "Salvaguardia del Patrimonio Cultural Inmaterial"
 
 #: src/conf/taxonomies.php:362
-#, fuzzy
 msgid "Samba"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Samba\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Samba\"  # Brazilian cultural heritag"
+msgstr "Samba"
 
 #: src/conf/taxonomies.php:363
 msgid "Samba (Dança)"
 msgstr "Samba (Baile)"
 
 #: src/conf/taxonomies.php:364
-#, fuzzy
 msgid "Samba de Roda"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Samba de Roda\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Samba de Roda\"  # Specific samba styl"
+msgstr "Samba de Roda"
 
 #: src/conf/taxonomies.php:365
-#, fuzzy
 msgid "Sapateado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Claqué\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Claqué\"  # Tap danc"
+msgstr "Claqué"
 
 #: src/conf/taxonomies.php:366
-#, fuzzy
 msgid "Sátira"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sátira\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sátira\"  # Literary genr"
+msgstr "Sátira"
 
 #: src/conf/taxonomies.php:367
-#, fuzzy
 msgid "Sertanejo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Sertaneja\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Sertaneja\"  # Brazilian country musi"
+msgstr "Música Sertaneja"
 
 #: src/conf/taxonomies.php:368
 msgid "Sítio Arqueológico"
@@ -5047,78 +4405,38 @@ msgid "Sítios Históricos e Arqueológicos"
 msgstr "Sitios Históricos y Arqueológicos"
 
 #: src/conf/taxonomies.php:370
-#, fuzzy
 msgid "Slam"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Slam\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Slam\"  # Poetry competition forma"
+msgstr "Slam"
 
 #: src/conf/taxonomies.php:371
-#, fuzzy
 msgid "Sociologia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sociología\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sociología\"  # Already translate"
+msgstr "Sociología"
 
 #: src/conf/taxonomies.php:372
-#, fuzzy
 msgid "Stand-up Comedy"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comedia Stand-up\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comedia Stand-up\"  # Comedy genr"
+msgstr "Comedia Stand-up"
 
 #: src/conf/taxonomies.php:373
-#, fuzzy
 msgid "Street Jazz"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Jazz Callejero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Jazz Callejero\"  # Dance styl"
+msgstr "Jazz Callejero"
 
 #: src/conf/taxonomies.php:374
-#, fuzzy
 msgid "Tambor de Crioula"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tambor de Criolla\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tambor de Criolla\"  # Afro-Brazilian cultural expressio"
+msgstr "Tambor de Criolla"
 
 #: src/conf/taxonomies.php:375
-#, fuzzy
 msgid "Tango (Dança)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tango (Baile)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tango (Baile)\"  # Dance styl"
+msgstr "Tango (Baile)"
 
 #: src/conf/taxonomies.php:376 src/conf/taxonomies.php:437
 #: src/modules/OpportunityWorkplan/Module.php:244
 #: src/modules/OpportunityWorkplan/Module.php:497
-#, fuzzy
 msgid "Teatro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro\"  # Already translate"
+msgstr "Teatro"
 
 #: src/conf/taxonomies.php:377
-#, fuzzy
 msgid "Teatro de Bonecos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro de Títeres\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro de Títeres\"  # Puppet theate"
+msgstr "Teatro de Títeres"
 
 #: src/conf/taxonomies.php:378
 msgid "Teatro de Improviso"
@@ -5133,31 +4451,16 @@ msgid "Teatro de Rua"
 msgstr "Teatro Callejero"
 
 #: src/conf/taxonomies.php:381
-#, fuzzy
 msgid "Teatro de Sombras"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro de Sombras\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro de Sombras\"  # Shadow theate"
+msgstr "Teatro de Sombras"
 
 #: src/conf/taxonomies.php:382
-#, fuzzy
 msgid "Teatro do Absurdo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro del Absurdo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro del Absurdo\"  # Theater genr"
+msgstr "Teatro del Absurdo"
 
 #: src/conf/taxonomies.php:383
-#, fuzzy
 msgid "Teatro do Oprimido"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro del Oprimido\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Teatro del Oprimido\"  # Augusto Boal's metho"
+msgstr "Teatro del Oprimido"
 
 #: src/conf/taxonomies.php:384
 msgid "Teatro Experimental"
@@ -5168,31 +4471,16 @@ msgid "Teatro Infantil"
 msgstr "Teatro Infantil"
 
 #: src/conf/taxonomies.php:386
-#, fuzzy
 msgid "Tecelagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tejeduría\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tejeduría\"  # Weavin"
+msgstr "Tejeduría"
 
 #: src/conf/taxonomies.php:387
-#, fuzzy
 msgid "Tecnobrega"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tecnobrega\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tecnobrega\"  # Brazilian music genr"
+msgstr "Tecnobrega"
 
 #: src/conf/taxonomies.php:388
-#, fuzzy
 msgid "Televisão"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Televisión\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Televisión\"  # Already translate"
+msgstr "Televisión"
 
 #: src/conf/taxonomies.php:389
 msgid "Teologia"
@@ -5203,41 +4491,21 @@ msgid "Tradução e Interpretação"
 msgstr "Traducción e Interpretación"
 
 #: src/conf/taxonomies.php:391
-#, fuzzy
 msgid "Tragédia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tragedia\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tragedia\"  # Theater genr"
+msgstr "Tragedia"
 
 #: src/conf/taxonomies.php:392
-#, fuzzy
 msgid "Trançagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trenzado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trenzado\"  # Braiding techniqu"
+msgstr "Trenzado"
 
 #: src/conf/taxonomies.php:393 src/modules/OpportunityWorkplan/Module.php:245
 #: src/modules/OpportunityWorkplan/Module.php:498
-#, fuzzy
 msgid "Transversalidades"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Transversalidades\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Transversalidades\"  # Academic/cultural concep"
+msgstr "Transversalidades"
 
 #: src/conf/taxonomies.php:394
-#, fuzzy
 msgid "Vídeo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Video\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Vídeo\"  # Already translate"
+msgstr "Video"
 
 #: src/conf/taxonomies.php:395
 msgid "Vídeo Experimental"
@@ -5252,31 +4520,16 @@ msgid "Vídeo por demanda"
 msgstr "Vídeo bajo demanda"
 
 #: src/conf/taxonomies.php:398
-#, fuzzy
 msgid "Video Teatro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Video Teatro\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Video Teatro\"  # Theater genr"
+msgstr "Video Teatro"
 
 #: src/conf/taxonomies.php:399
-#, fuzzy
 msgid "Videoarte"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Videoarte\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Videoarte\"  # Art for"
+msgstr "Videoarte"
 
 #: src/conf/taxonomies.php:400
-#, fuzzy
 msgid "Videocast"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Videocast\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Videocast\"  # Media forma"
+msgstr "Videocast"
 
 #: src/conf/taxonomies.php:401
 msgid "Videoclipe"
@@ -5291,146 +4544,71 @@ msgid "Webdesign"
 msgstr "Diseño web"
 
 #: src/conf/taxonomies.php:404
-#, fuzzy
 msgid "Websérie"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Serie web\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Serie web\"  # Already translate"
+msgstr "Serie web"
 
 #: src/conf/taxonomies.php:405
-#, fuzzy
 msgid "Xaxado"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Xaxado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Xaxado\"  # Traditional Brazilian danc"
+msgstr "Xaxado"
 
 #: src/conf/taxonomies.php:406
-#, fuzzy
 msgid "Xilogravura"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Xilografía\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Xilografía\"  # Woodcut printing techniqu"
+msgstr "Xilografía"
 
 #: src/conf/taxonomies.php:414
-#, fuzzy
 msgid "Você deve informar ao menos uma linguagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Debe introducir al menos un tipo de evento\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Debe introducir al menos un tipo de evento\"  # Matching the above translatio"
+msgstr "Debe introducir al menos un tipo de evento"
 
 #: src/conf/taxonomies.php:421
-#, fuzzy
 msgid "Artes Integradas"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artes Integradas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artes Integradas\"  # Already translate"
+msgstr "Artes Integradas"
 
 #: src/conf/taxonomies.php:423
-#, fuzzy
 msgid "Audiovisual"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Audiovisual\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Audiovisual\"  # Already translate"
+msgstr "Audiovisual"
 
 #: src/conf/taxonomies.php:426
-#, fuzzy
 msgid "Cultura Indígena"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Indígena\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Indígena\"  # Already translate"
+msgstr "Cultura Indígena"
 
 #: src/conf/taxonomies.php:427
-#, fuzzy
 msgid "Cultura Tradicional"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Tradicional\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cultura Tradicional\"  # Already translate"
+msgstr "Cultura Tradicional"
 
 #: src/conf/taxonomies.php:428
-#, fuzzy
 msgid "Curso ou Oficina"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Curso o taller\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Curso o taller\"  # Already translate"
+msgstr "Curso o taller"
 
 #: src/conf/taxonomies.php:431
-#, fuzzy
 msgid "Hip Hop"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hip Hop\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hip Hop\"  # Already translated (international term"
+msgstr "Hip Hop"
 
 #: src/conf/taxonomies.php:432
-#, fuzzy
 msgid "Livro e Literatura"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Libro y Literatura\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Libro y Literatura\"  # Already translate"
+msgstr "Libro y Literatura"
 
 #: src/conf/taxonomies.php:434
-#, fuzzy
 msgid "Música Erudita"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Erudita\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Música Erudita\"  # Already translate"
+msgstr "Música Erudita"
 
 #: src/conf/taxonomies.php:435
-#, fuzzy
 msgid "Palestra, Debate ou Encontro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Conferencia, Debate o Encuentro\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Conferencia, Debate o Encuentro\"  # Already translate"
+msgstr "Conferencia, Debate o Encuentro"
 
 #: src/conf/taxonomies.php:443
 #: src/modules/RegistrationFieldTypes/layouts/parts/registration-field-types/addresses-config.php:9
 #: src/modules/RegistrationFieldTypes/layouts/parts/registration-field-types/persons.php:23
 #: src/modules/UserManagement/components/user-management--add-role-modal/template.php:18
-#, fuzzy
 msgid "Função"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rol\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rol\"  # Already translated (better than \"Función\" in this context"
+msgstr "Rol"
 
 #: src/conf/taxonomies.php:448
 msgid "Acrobata"
 msgstr "Acróbata"
 
 #: src/conf/taxonomies.php:449
-#, fuzzy
 msgid "Aderecista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fabricante de accesorios\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fabricante de accesorios\"  # Already translate"
+msgstr "Fabricante de accesorios"
 
 #: src/conf/taxonomies.php:450
 msgid "Adestrador circense"
@@ -5445,77 +4623,36 @@ msgid "Afinador de Instrumentos Musicais"
 msgstr "Afinador de instrumentos musicales"
 
 #: src/conf/taxonomies.php:453
-#, fuzzy
 msgid "Ajudante de Câmera"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de cámara\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de cámara\"  # Already translate"
+msgstr "Ayudante de cámara"
 
 #: src/conf/taxonomies.php:454
-#, fuzzy
 msgid "Ajudante de Locação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de locación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de locación\"  # Already translate"
+msgstr "Ayudante de locación"
 
 #: src/conf/taxonomies.php:455
-#, fuzzy
 msgid "Ajudante de Objetos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de objetos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de objetos\"  # Already translate"
+msgstr "Ayudante de objetos"
 
 #: src/conf/taxonomies.php:456
-#, fuzzy
 msgid "Ajudante de Produção"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de producción\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ayudante de producción\"  # Already translate"
+msgstr "Ayudante de producción"
 
 #: src/conf/taxonomies.php:457
-#, fuzzy
 msgid "Amestrador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Entrenador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Entrenador(a)\"  # Already translate"
+msgstr "Entrenador(a)"
 
 #: src/conf/taxonomies.php:458
-#, fuzzy
 msgid "Animador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Animador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Animador\"  # Already translated (could also be \"Presentador\" depending on "
-"context"
+msgstr "Animador"
 
 #: src/conf/taxonomies.php:459
-#, fuzzy
 msgid "Antipodista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Antipodista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Antipodista\"  # Circus performer (kept original"
+msgstr "Antipodista"
 
 #: src/conf/taxonomies.php:460
-#, fuzzy
 msgid "Aplicador(a) de sign"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Aplicador(a) de sellos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Aplicador(a) de sellos\"  # Corrected from \"sello\" to \"sellos"
+msgstr "Aplicador(a) de sellos"
 
 #: src/conf/taxonomies.php:461
 msgid "Apresentador de Eventos"
@@ -5538,53 +4675,28 @@ msgid "Apresentador/Animador"
 msgstr "Presentador/Animador"
 
 #: src/conf/taxonomies.php:466
-#, fuzzy
 msgid "Aramista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Aramista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Aramista\"  # Specialist in wire work (circus/construction"
+msgstr "Aramista"
 
 #: src/conf/taxonomies.php:467
-#, fuzzy
 msgid "Armeiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Armero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Armero(a)\"  # Already translate"
+msgstr "Armero(a)"
 
 #: src/conf/taxonomies.php:468
-#, fuzzy
 msgid "Arqueólogo(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arqueólogo(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arqueólogo(a)\"  # Already translate"
+msgstr "Arqueólogo(a)"
 
 #: src/conf/taxonomies.php:469
 msgid "Arquiteto(a) e Urbanista"
 msgstr "Arquitecto(a) y urbanista"
 
 #: src/conf/taxonomies.php:470
-#, fuzzy
 msgid "Arranjador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arreglista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arreglista\"  # More accurate for music arrangemen"
+msgstr "Arreglista"
 
 #: src/conf/taxonomies.php:471
-#, fuzzy
 msgid "Arte-Finalista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arte-finalista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arte-finalista\"  # Graphic design specialis"
+msgstr "Arte-finalista"
 
 #: src/conf/taxonomies.php:472
 msgid "Artesão com Material Reciclável"
@@ -5631,165 +4743,80 @@ msgid "Artesão(ã)"
 msgstr "Artesano(a)"
 
 #: src/conf/taxonomies.php:483
-#, fuzzy
 msgid "Artista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista\"  # Already translate"
+msgstr "Artista"
 
 #: src/conf/taxonomies.php:484
 msgid "Artista Aéreo"
 msgstr "Artista aéreo"
 
 #: src/conf/taxonomies.php:485
-#, fuzzy
 msgid "Artista Circense"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista circense\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista circense\"  # Already translate"
+msgstr "Artista circense"
 
 #: src/conf/taxonomies.php:486
-#, fuzzy
 msgid "Artista de Rua"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista callejero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista callejero\"  # Already translate"
+msgstr "Artista callejero"
 
 #: src/conf/taxonomies.php:487
-#, fuzzy
 msgid "Artista Urbano"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista urbano\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista urbano\"  # Already translate"
+msgstr "Artista urbano"
 
 #: src/conf/taxonomies.php:488
-#, fuzzy
 msgid "Artista Visual"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista visual\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista visual\"  # Already translate"
+msgstr "Artista visual"
 
 #: src/conf/taxonomies.php:489
-#, fuzzy
 msgid "Assessor de imprensa"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asesor de prensa\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asesor de prensa\"  # More specific than \"comunicación"
+msgstr "Asesor de prensa"
 
 #: src/conf/taxonomies.php:490
-#, fuzzy
 msgid "Assessor(a) de Comunicação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asesor(a) de comunicación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asesor(a) de comunicación\"  # Already translate"
+msgstr "Asesor(a) de comunicación"
 
 #: src/conf/taxonomies.php:491
-#, fuzzy
 msgid "Assistente Administrativo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente administrativo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente administrativo\"  # Already translate"
+msgstr "Asistente administrativo"
 
 #: src/conf/taxonomies.php:492
-#, fuzzy
 msgid "Assistente de Arte"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de arte\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de arte\"  # Already translate"
+msgstr "Asistente de arte"
 
 #: src/conf/taxonomies.php:493
-#, fuzzy
 msgid "Assistente de Artista Gráfico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de artista gráfico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de artista gráfico\"  # Already translate"
+msgstr "Asistente de artista gráfico"
 
 #: src/conf/taxonomies.php:494
-#, fuzzy
 msgid "Assistente de Backstage"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de backstage\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de backstage\"  # Kept English term (international usage"
+msgstr "Asistente de backstage"
 
 #: src/conf/taxonomies.php:495
-#, fuzzy
 msgid "Assistente de Camarim"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de camerino\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de camerino\"  # More common than \"camarín"
+msgstr "Asistente de camerino"
 
 #: src/conf/taxonomies.php:496
-#, fuzzy
 msgid "Assistente de Câmera"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de cámara\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de cámara\"  # Already translate"
+msgstr "Asistente de cámara"
 
 #: src/conf/taxonomies.php:497
-#, fuzzy
 msgid "Assistente de Cenotécnica"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de escenotecnia\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de escenotecnia\"  # More accurate than \"escena"
+msgstr "Asistente de escenotecnia"
 
 #: src/conf/taxonomies.php:498
 msgid "Assistente de comunicação"
 msgstr "Asistente de comunicación"
 
 #: src/conf/taxonomies.php:499
-#, fuzzy
 msgid "Assistente de Continuidade"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de continuidad\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de continuidad\"  # Already translate"
+msgstr "Asistente de continuidad"
 
 #: src/conf/taxonomies.php:500
-#, fuzzy
 msgid "Assistente de Controller"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de controlador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de controlador\"  # Or \"asistente de controller\" (financial role"
+msgstr "Asistente de controlador"
 
 #: src/conf/taxonomies.php:501
-#, fuzzy
 msgid "Assistente de Criação Artística"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de creación artística\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asistente de creación artística\"  # Already translate"
+msgstr "Asistente de creación artística"
 
 #: src/conf/taxonomies.php:502
 msgid "Assistente de direção"
@@ -5900,44 +4927,24 @@ msgid "Avaliador de Joias"
 msgstr "Evaluador de joyas"
 
 #: src/conf/taxonomies.php:529
-#, fuzzy
 msgid "Baianas do Acarajé"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Baianas del acarajé\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Baianas del acarajé\"  # Cultural term for traditional Bahian food vendor"
+msgstr "Baianas del acarajé"
 
 #: src/conf/taxonomies.php:530
 msgid "Bailarino(a)"
 msgstr "Bailarín/Bailarina"
 
 #: src/conf/taxonomies.php:531
-#, fuzzy
 msgid "Barreira"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Barrera\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Barrera\"  # Circus/theater barrie"
+msgstr "Barrera"
 
 #: src/conf/taxonomies.php:532
-#, fuzzy
 msgid "Bate-folha a máquina"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Batidor de lámina a máquina\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Batidor de lámina a máquina\"  # Metalworking ter"
+msgstr "Batidor de lámina a máquina"
 
 #: src/conf/taxonomies.php:533
-#, fuzzy
 msgid "Benzedeiro(a)/Rezadeiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Curandero(a)/Rezador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Curandero(a)/Rezador(a)\"  # Traditional healer/prayer leade"
+msgstr "Curandero(a)/Rezador(a)"
 
 #: src/conf/taxonomies.php:534
 msgid "Bibliotecário"
@@ -5956,13 +4963,8 @@ msgid "Bordadeiro(a)"
 msgstr "Bordador(a)"
 
 #: src/conf/taxonomies.php:538
-#, fuzzy
 msgid "Brincante"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Animador cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Animador cultural\"  # Traditional performer/entertaine"
+msgstr "Animador cultural"
 
 #: src/conf/taxonomies.php:539
 msgid "Cabeleireiro"
@@ -5985,13 +4987,8 @@ msgid "Capataz(a) - Montador(a)"
 msgstr "Capataz(a) - Montador(a)"
 
 #: src/conf/taxonomies.php:544
-#, fuzzy
 msgid "Capoeirista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Capoeirista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Capoeirista\"  # Cultural term, kept origina"
+msgstr "Capoeirista"
 
 #: src/conf/taxonomies.php:545
 msgid "Caricaturista"
@@ -6050,13 +5047,8 @@ msgid "Colorista Assistente"
 msgstr "Asistente de colorista"
 
 #: src/conf/taxonomies.php:559
-#, fuzzy
 msgid "Comedor de Espada"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tragasables\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tragasables\"  # Circus performe"
+msgstr "Tragasables"
 
 #: src/conf/taxonomies.php:560
 msgid "Comedor de Fogo (pirofagista)"
@@ -6071,13 +5063,8 @@ msgid "Compositor"
 msgstr "Compositor"
 
 #: src/conf/taxonomies.php:563
-#, fuzzy
 msgid "Comunicador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comunicador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Comunicador\"  # Could also be \"Profesional de comunicación"
+msgstr "Comunicador"
 
 #: src/conf/taxonomies.php:564
 msgid "Confeccionador de Acordeão"
@@ -6112,145 +5099,68 @@ msgid "Conservador/Restaurador"
 msgstr "Conservador/Restaurador"
 
 #: src/conf/taxonomies.php:572
-#, fuzzy
 msgid "Consultor de Imagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor de imagen\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor de imagen\"  # Already translate"
+msgstr "Consultor de imagen"
 
 #: src/conf/taxonomies.php:573
-#, fuzzy
 msgid "Consultor em Legendagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor de subtitulado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor de subtitulado\"  # Already translate"
+msgstr "Consultor de subtitulado"
 
 #: src/conf/taxonomies.php:574
-#, fuzzy
 msgid "Consultor(a) cultural"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) cultural\"  # Already translate"
+msgstr "Consultor(a) cultural"
 
 #: src/conf/taxonomies.php:575
-#, fuzzy
 msgid "Consultor(a) em Audiodescrição"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) en audiodescripción\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) en audiodescripción\"  # Already translate"
+msgstr "Consultor(a) en audiodescripción"
 
 #: src/conf/taxonomies.php:576
-#, fuzzy
 msgid "Consultor(a) em Braille"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) en Braille\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) en Braille\"  # Already translate"
+msgstr "Consultor(a) en Braille"
 
 #: src/conf/taxonomies.php:577
-#, fuzzy
 msgid "Consultor(a) em Libras"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) en lengua de señas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Consultor(a) en lengua de señas\"  # \"Lengua de señas\" is more common than "
-"\"lenguaje de señas"
+msgstr "Consultor(a) en lengua de señas"
 
 #: src/conf/taxonomies.php:578
 msgid "Contador(a) de Estórias/Histórias"
 msgstr "Cuentacuentos"
 
 #: src/conf/taxonomies.php:579
-#, fuzzy
 msgid "Continuista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Continuista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Continuista\"  # Already translated (film/TV script supervisor"
+msgstr "Continuista"
 
 #: src/conf/taxonomies.php:580
-#, fuzzy
 msgid "Contorcionista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Contorsionista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Contorsionista\"  # Circus performe"
+msgstr "Contorsionista"
 
 #: src/conf/taxonomies.php:581
-#, fuzzy
 msgid "Contra-regra"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tramoyista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tramoyista\"  # Theater stagehan"
+msgstr "Tramoyista"
 
 #: src/conf/taxonomies.php:582
-#, fuzzy
 msgid "Contrarregra"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tramoyista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tramoyista\"  # Already translated (alternative spelling"
+msgstr "Tramoyista"
 
 #: src/conf/taxonomies.php:583
-#, fuzzy
 msgid "Coolhunter"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coolhunter\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coolhunter\"  # Trend spotter (kept English term"
+msgstr "Coolhunter"
 
 #: src/conf/taxonomies.php:584
-#, fuzzy
 msgid "Coordenador(a) de Palco"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coordinador(a) de escenario\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coordinador(a) de escenario\"  # \"Escenario\" is better than \"palco\" for "
-"theate"
+msgstr "Coordinador(a) de escenario"
 
 #: src/conf/taxonomies.php:585
-#, fuzzy
 msgid "Coreógrafo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coreógrafo(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Coreógrafo\"  # Choreographe"
+msgstr "Coreógrafo(a)"
 
 #: src/conf/taxonomies.php:586
-#, fuzzy
 msgid "Cortineiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cortinero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cortinero(a)\"  # Already translate"
+msgstr "Cortinero(a)"
 
 #: src/conf/taxonomies.php:587
-#, fuzzy
 msgid "Costureiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Costurero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Costurero(a)\"  # Already translate"
+msgstr "Costurero(a)"
 
 #: src/conf/taxonomies.php:588
 msgid "Cravador/Cravejador de Joias"
@@ -6261,13 +5171,8 @@ msgid "Criador(a) de Conteúdos Criativos Digitais"
 msgstr "Creador(a) de contenidos creativos digitales"
 
 #: src/conf/taxonomies.php:590
-#, fuzzy
 msgid "Curador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Curador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Curador(a)\"  # Art/museum curato"
+msgstr "Curador(a)"
 
 #: src/conf/taxonomies.php:591
 msgid "Dançarino de Rua"
@@ -6330,53 +5235,28 @@ msgid "Desenvolvedor(a) de Sistemas Informacionais"
 msgstr "Desarrollador(a) de sistemas informacionales"
 
 #: src/conf/taxonomies.php:605
-#, fuzzy
 msgid "Desenvolvedor(a) de Software"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Desarrollador(a) de software\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Desarrollador(a) de software\"  # Already translate"
+msgstr "Desarrollador(a) de software"
 
 #: src/conf/taxonomies.php:606
-#, fuzzy
 msgid "Design de Montagem"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseño de montaje\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseño de montaje\"  # Already translate"
+msgstr "Diseño de montaje"
 
 #: src/conf/taxonomies.php:607
 msgid "Designer de Brinquedos"
 msgstr "Diseñador de juguetes"
 
 #: src/conf/taxonomies.php:608
-#, fuzzy
 msgid "Designer de Interiores"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de interiores\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de interiores\"  # Already translate"
+msgstr "Diseñador de interiores"
 
 #: src/conf/taxonomies.php:609
-#, fuzzy
 msgid "Designer de Jóias"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de joyas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de joyas\"  # Already translate"
+msgstr "Diseñador de joyas"
 
 #: src/conf/taxonomies.php:610
-#, fuzzy
 msgid "Designer de Moda"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de moda\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de moda\"  # Already translate"
+msgstr "Diseñador de moda"
 
 #: src/conf/taxonomies.php:611
 msgid "Designer de Som"
@@ -6387,97 +5267,52 @@ msgid "Designer de Vitrines (Vitrinista)"
 msgstr "Diseñador de vitrinas (Vitrinista)"
 
 #: src/conf/taxonomies.php:613
-#, fuzzy
 msgid "Designer Gráfico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador gráfico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador gráfico\"  # Already translate"
+msgstr "Diseñador gráfico"
 
 #: src/conf/taxonomies.php:614
-#, fuzzy
 msgid "Designer Paisagístico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador paisajístico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador paisajístico\"  # Already translate"
+msgstr "Diseñador paisajístico"
 
 #: src/conf/taxonomies.php:615
-#, fuzzy
 msgid "Diagramador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diagramador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diagramador(a)\"  # Already translate"
+msgstr "Diagramador(a)"
 
 #: src/conf/taxonomies.php:616
-#, fuzzy
 msgid "Digitalizador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Digitalizador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Digitalizador(a)\"  # Already translate"
+msgstr "Digitalizador(a)"
 
 #: src/conf/taxonomies.php:617
 msgid "Diretor Artístico"
 msgstr "Director artístico"
 
 #: src/conf/taxonomies.php:618
-#, fuzzy
 msgid "Diretor de Arte"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Director de arte\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Director de arte\"  # Already translate"
+msgstr "Director de arte"
 
 #: src/conf/taxonomies.php:619
 msgid "Diretor Musical"
 msgstr "Director musical"
 
 #: src/conf/taxonomies.php:620
-#, fuzzy
 msgid "Diretor(a) de Palco"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Director(a) de escenario\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Director(a) de escenario\"  # \"Escenario\" is better than \"palco"
+msgstr "Director(a) de escenario"
 
 #: src/conf/taxonomies.php:621
-#, fuzzy
 msgid "Dj (disc jockey)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"DJ (disc jockey)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"DJ (disc jockey)\"  # Kept international ter"
+msgstr "DJ (disc jockey)"
 
 #: src/conf/taxonomies.php:622
 msgid "Domador de Animais"
 msgstr "Domador de animales"
 
 #: src/conf/taxonomies.php:623
-#, fuzzy
 msgid "Dramaturgo(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Dramaturgo(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Dramaturgo(a)\"  # Already translate"
+msgstr "Dramaturgo(a)"
 
 #: src/conf/taxonomies.php:624
-#, fuzzy
 msgid "Dublador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Actor/actriz de doblaje\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Actor/actriz de doblaje\"  # More precise than \"doblador"
+msgstr "Actor/actriz de doblaje"
 
 #: src/conf/taxonomies.php:625
 msgid "Editor de Partituras"
@@ -6488,26 +5323,16 @@ msgid "Editor de Texto e Imagem"
 msgstr "Editor de texto e imagen"
 
 #: src/conf/taxonomies.php:627
-#, fuzzy
 msgid "Editor(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Editor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Editor(a)\"  # Already translate"
+msgstr "Editor(a)"
 
 #: src/conf/taxonomies.php:628
 msgid "Editor(a) de Livros"
 msgstr "Editor(a) de libros"
 
 #: src/conf/taxonomies.php:629
-#, fuzzy
 msgid "Editor(a) de Som"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Editor(a) de sonido\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Editor(a) de sonido\"  # Already translate"
+msgstr "Editor(a) de sonido"
 
 #: src/conf/taxonomies.php:630
 msgid "Editor(a) de TV e Vídeo"
@@ -6518,237 +5343,112 @@ msgid "Educador Museal"
 msgstr "Educador museal"
 
 #: src/conf/taxonomies.php:632
-#, fuzzy
 msgid "Educador Social"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Educador social\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Educador social\"  # Already translate"
+msgstr "Educador social"
 
 #: src/conf/taxonomies.php:633
 msgid "Educador(a) artistico-cultural"
 msgstr "Educador(a) artístico-cultural"
 
 #: src/conf/taxonomies.php:634
-#, fuzzy
 msgid "Eletricista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Electricista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Electricista\"  # Already translate"
+msgstr "Electricista"
 
 #: src/conf/taxonomies.php:635
-#, fuzzy
 msgid "Eletricista Chefe"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Jefe de electricistas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Jefe de electricistas\"  # More natural than \"Electricista Jefe"
+msgstr "Jefe de electricistas"
 
 #: src/conf/taxonomies.php:636
-#, fuzzy
 msgid "Engenheiro de Som"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ingeniero de sonido\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ingeniero de sonido\"  # Already translate"
+msgstr "Ingeniero de sonido"
 
 #: src/conf/taxonomies.php:637
-#, fuzzy
 msgid "Enólogo(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Enólogo(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Enólogo(a)\"  # Wine expert (kept original"
+msgstr "Enólogo(a)"
 
 #: src/conf/taxonomies.php:638
-#, fuzzy
 msgid "Ensaiador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ensayador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ensayador\"  # Rehearsal directo"
+msgstr "Ensayador"
 
 #: src/conf/taxonomies.php:639
-#, fuzzy
 msgid "Equilibrista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Equilibrista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Equilibrista\"  # Tightrope walke"
+msgstr "Equilibrista"
 
 #: src/conf/taxonomies.php:640
-#, fuzzy
 msgid "Escritor"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Escritor\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Escritor\"  # Already translate"
+msgstr "Escritor"
 
 #: src/conf/taxonomies.php:641
-#, fuzzy
 msgid "Escultor"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Escultor\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Escultor\"  # Already translate"
+msgstr "Escultor"
 
 #: src/conf/taxonomies.php:642
-#, fuzzy
 msgid "Estampador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Estampador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Estampador\"  # Already translated (textile/printer"
+msgstr "Estampador"
 
 #: src/conf/taxonomies.php:643
-#, fuzzy
 msgid "Facilitador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Facilitador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Facilitador\"  # Already translate"
+msgstr "Facilitador"
 
 #: src/conf/taxonomies.php:644
-#, fuzzy
 msgid "Faquir"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Faquir\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Faquir\"  # Kept original (fakir"
+msgstr "Faquir"
 
 #: src/conf/taxonomies.php:645
-#, fuzzy
 msgid "Figurinista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de vestuario\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de vestuario\"  # More precise than \"vestuarista"
+msgstr "Diseñador de vestuario"
 
 #: src/conf/taxonomies.php:646
-#, fuzzy
 msgid "Finalizador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Editor final\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Editor final\"  # Post-production rol"
+msgstr "Editor final"
 
 #: src/conf/taxonomies.php:647
-#, fuzzy
 msgid "Foley"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista de efectos de sonido (Foley)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista de efectos de sonido (Foley)\"  # Sound effects artis"
+msgstr "Artista de efectos de sonido (Foley)"
 
 #: src/conf/taxonomies.php:648
-#, fuzzy
 msgid "Fotógrafo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fotógrafo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fotógrafo\"  # Already translate"
+msgstr "Fotógrafo"
 
 #: src/conf/taxonomies.php:649
-#, fuzzy
 msgid "Fotógrafo Lambe-Lambe"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fotógrafo lambe-lambe\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Fotógrafo lambe-lambe\"  # Traditional street photographe"
+msgstr "Fotógrafo lambe-lambe"
 
 #: src/conf/taxonomies.php:650
-#, fuzzy
 msgid "Funâmbulo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Funámbulo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Funámbulo\"  # Tightrope walker (alternative to equilibrista"
+msgstr "Funámbulo"
 
 #: src/conf/taxonomies.php:651
 msgid "Fundidor (joalheria e ourivesaria)"
 msgstr "Fundidor (joyería y orfebrería)"
 
 #: src/conf/taxonomies.php:652
-#, fuzzy
 msgid "Galerista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Galerista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Galerista\"  # Art gallery manage"
+msgstr "Galerista"
 
 #: src/conf/taxonomies.php:653
-#, fuzzy
 msgid "Gambista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gambista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gambista\"  # Viola da gamba playe"
+msgstr "Gambista"
 
 #: src/conf/taxonomies.php:654
-#, fuzzy
 msgid "Gestor Cultural"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestor Cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestor Cultural\"  # Cultural manage"
+msgstr "Gestor Cultural"
 
 #: src/conf/taxonomies.php:655
-#, fuzzy
 msgid "Gestor de Redes Sociais"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestor de Redes Sociales\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestor de Redes Sociales\"  # Social media manage"
+msgstr "Gestor de Redes Sociales"
 
 #: src/conf/taxonomies.php:656
-#, fuzzy
 msgid "Gestor(a) de Inovação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestor(a) de Innovación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Gestor(a) de Innovación\"  # Innovation manage"
+msgstr "Gestor(a) de Innovación"
 
 #: src/conf/taxonomies.php:657
-#, fuzzy
 msgid "Globista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista de globos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista de globos\"  # Balloon artis"
+msgstr "Artista de globos"
 
 #: src/conf/taxonomies.php:658
-#, fuzzy
 msgid "Grafiteiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Grafitero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Grafitero(a)\"  # Graffiti artis"
+msgstr "Grafitero(a)"
 
 #: src/conf/taxonomies.php:659
 msgid "Gravador de Joias"
@@ -6759,121 +5459,56 @@ msgid "Gravador, à mão (encadernação)"
 msgstr "Grabador manual (encuadernación)"
 
 #: src/conf/taxonomies.php:661
-#, fuzzy
 msgid "Guia de Turismo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guía de Turismo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guía de Turismo\"  # Tour guid"
+msgstr "Guía de Turismo"
 
 #: src/conf/taxonomies.php:662
-#, fuzzy
 msgid "Guia-intérprete de língua de sinais"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guía-intérprete de lengua de señas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guía-intérprete de lengua de señas\"  # Sign language interpreter-guid"
+msgstr "Guía-intérprete de lengua de señas"
 
 #: src/conf/taxonomies.php:663
-#, fuzzy
 msgid "Hacker"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hacker\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hacker\"  # Kept English ter"
+msgstr "Hacker"
 
 #: src/conf/taxonomies.php:664
-#, fuzzy
 msgid "Homem-bala"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hombre-bala\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hombre-bala\"  # Human cannonball performe"
+msgstr "Hombre-bala"
 
 #: src/conf/taxonomies.php:665
-#, fuzzy
 msgid "Icarista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Icárista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Icárista\"  # Circus aerial performe"
+msgstr "Icárista"
 
 #: src/conf/taxonomies.php:666
-#, fuzzy
 msgid "Iluminador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Iluminador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Iluminador(a)\"  # Lighting technicia"
+msgstr "Iluminador(a)"
 
 #: src/conf/taxonomies.php:667
-#, fuzzy
 msgid "Ilustrador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ilustrador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ilustrador(a)\"  # Illustrato"
+msgstr "Ilustrador(a)"
 
 #: src/conf/taxonomies.php:668
-#, fuzzy
 msgid "Instrumentista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Instrumentista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Instrumentista\"  # Musicia"
+msgstr "Instrumentista"
 
 #: src/conf/taxonomies.php:669
-#, fuzzy
 msgid "Instrutor(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Instructor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Instructor(a)\"  # Instructo"
+msgstr "Instructor(a)"
 
 #: src/conf/taxonomies.php:670
-#, fuzzy
 msgid "Intérprete"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Intérprete\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Intérprete\"  # Performer/interprete"
+msgstr "Intérprete"
 
 #: src/conf/taxonomies.php:671
-#, fuzzy
 msgid "Inventor"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Inventor\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Inventor\"  # Invento"
+msgstr "Inventor"
 
 #: src/conf/taxonomies.php:672
-#, fuzzy
 msgid "Joalheiro (reparações)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Joyero (reparaciones)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Joyero (reparaciones)\"  # Jewelry repaire"
+msgstr "Joyero (reparaciones)"
 
 #: src/conf/taxonomies.php:673
-#, fuzzy
 msgid "Jornalista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Periodista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Periodista\"  # Journalis"
+msgstr "Periodista"
 
 #: src/conf/taxonomies.php:674
 msgid "Laminador de metais preciosos a mão"
@@ -6884,89 +5519,44 @@ msgid "Lapidador de Jóias"
 msgstr "Lapidador de joyas"
 
 #: src/conf/taxonomies.php:676
-#, fuzzy
 msgid "Legendista ou Tradutor(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Subtitulador o Traductor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Subtitulador o Traductor(a)\"  # Subtitler or translato"
+msgstr "Subtitulador o Traductor(a)"
 
 #: src/conf/taxonomies.php:677
-#, fuzzy
 msgid "Logger"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Registrador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Registrador\"  # Data logge"
+msgstr "Registrador"
 
 #: src/conf/taxonomies.php:678
-#, fuzzy
 msgid "Luthier"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Luthier\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Luthier\"  # Instrument maker (kept original"
+msgstr "Luthier"
 
 #: src/conf/taxonomies.php:679
-#, fuzzy
 msgid "Maestro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro\"  # Conducto"
+msgstr "Maestro"
 
 #: src/conf/taxonomies.php:680
-#, fuzzy
 msgid "Mágico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Mago\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Mago\"  # Magicia"
+msgstr "Mago"
 
 #: src/conf/taxonomies.php:681
-#, fuzzy
 msgid "Malabarista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Malabarista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Malabarista\"  # Juggle"
+msgstr "Malabarista"
 
 #: src/conf/taxonomies.php:682
-#, fuzzy
 msgid "Maquetista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maquetista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maquetista\"  # Model make"
+msgstr "Maquetista"
 
 #: src/conf/taxonomies.php:683
 msgid "Maquetista na Marcenaria"
 msgstr "Maquetista en carpintería"
 
 #: src/conf/taxonomies.php:684
-#, fuzzy
 msgid "Maquiador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maquillador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maquillador(a)\"  # Makeup artis"
+msgstr "Maquillador(a)"
 
 #: src/conf/taxonomies.php:685
-#, fuzzy
 msgid "Maquinista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maquinista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maquinista\"  # Machinis"
+msgstr "Maquinista"
 
 #: src/conf/taxonomies.php:686
 msgid "Maquinista de Cinema e Vídeo"
@@ -6977,40 +5567,20 @@ msgid "Maquinista de Teatro e Espetáculos"
 msgstr "Maquinista de teatro y espectáculos"
 
 #: src/conf/taxonomies.php:688
-#, fuzzy
 msgid "Marcador(a) de Cena"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Marcador(a) de Escena\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Marcador(a) de Escena\"  # Scene marke"
+msgstr "Marcador(a) de Escena"
 
 #: src/conf/taxonomies.php:689
-#, fuzzy
 msgid "Marceneiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Carpintero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Carpintero\"  # Carpente"
+msgstr "Carpintero"
 
 #: src/conf/taxonomies.php:690
-#, fuzzy
 msgid "Marcheteiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Marquetero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Marquetero\"  # Marquetry craftsma"
+msgstr "Marquetero"
 
 #: src/conf/taxonomies.php:691
-#, fuzzy
 msgid "Mediador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Mediador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Mediador\"  # Mediato"
+msgstr "Mediador"
 
 #: src/conf/taxonomies.php:692
 msgid "Mestre da cultura afro-brasileira"
@@ -7033,1057 +5603,473 @@ msgid "Mestre de cultura indígena"
 msgstr "Maestro de cultura indígena"
 
 #: src/conf/taxonomies.php:697
-#, fuzzy
 msgid "Mestre de Pista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro de Pista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro de Pista\"  # Circus ringmaste"
+msgstr "Maestro de Pista"
 
 #: src/conf/taxonomies.php:698
-#, fuzzy
 msgid "Mestre Vidreiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro Vidriero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro Vidriero\"  # Glass maste"
+msgstr "Maestro Vidriero"
 
 #: src/conf/taxonomies.php:699
-#, fuzzy
 msgid "Mestre(a) de bateria"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro(a) de batería\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro(a) de batería\"  # Percussion maste"
+msgstr "Maestro(a) de batería"
 
 #: src/conf/taxonomies.php:700
-#, fuzzy
 msgid "Mestre-sala"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro de ceremonias\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestro de ceremonias\"  # Master of ceremonie"
+msgstr "Maestro de ceremonias"
 
 #: src/conf/taxonomies.php:701
-#, fuzzy
 msgid "Mestres artífices"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestros artesanos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Maestros artesanos\"  # Master craftsme"
+msgstr "Maestros artesanos"
 
 #: src/conf/taxonomies.php:702
-#, fuzzy
 msgid "Microfonista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Microfonista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Microfonista\"  # Microphone technicia"
+msgstr "Microfonista"
 
 #: src/conf/taxonomies.php:703
-#, fuzzy
 msgid "Mímico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Mímico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Mímico\"  # Mime artis"
+msgstr "Mímico"
 
 #: src/conf/taxonomies.php:704
-#, fuzzy
 msgid "Miniaturista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Miniaturista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Miniaturista\"  # Miniature artis"
+msgstr "Miniaturista"
 
 #: src/conf/taxonomies.php:705
-#, fuzzy
 msgid "Modelador de Madeira"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Modelador de madera\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Modelador de madera\"  # Wood modele"
+msgstr "Modelador de madera"
 
 #: src/conf/taxonomies.php:706
-#, fuzzy
 msgid "Modelista de Calçados"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Modelista de calzado\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Modelista de calzado\"  # Shoe designe"
+msgstr "Modelista de calzado"
 
 #: src/conf/taxonomies.php:707
-#, fuzzy
 msgid "Modelista de Roupas"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Modelista de ropa\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Modelista de ropa\"  # Clothing designe"
+msgstr "Modelista de ropa"
 
 #: src/conf/taxonomies.php:708
-#, fuzzy
 msgid "Monociclista de circo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Monociclista de circo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Monociclista de circo\"  # Circus unicyclis"
+msgstr "Monociclista de circo"
 
 #: src/conf/taxonomies.php:709
-#, fuzzy
 msgid "Montador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Montador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Montador\"  # Editor/assemble"
+msgstr "Montador"
 
 #: src/conf/taxonomies.php:710
-#, fuzzy
 msgid "Montador de Palco"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Montador de escenario\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Montador de escenario\"  # Stage assemble"
+msgstr "Montador de escenario"
 
 #: src/conf/taxonomies.php:711
-#, fuzzy
 msgid "Motorista de Audiovisual"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Conductor de audiovisual\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Conductor de audiovisual\"  # Audiovisual drive"
+msgstr "Conductor de audiovisual"
 
 #: src/conf/taxonomies.php:712
-#, fuzzy
 msgid "Multiplicador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Multiplicador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Multiplicador\"  # Trainer/facilitato"
+msgstr "Multiplicador"
 
 #: src/conf/taxonomies.php:713
-#, fuzzy
 msgid "Muralista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Muralista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Muralista\"  # Mural painte"
+msgstr "Muralista"
 
 #: src/conf/taxonomies.php:714
-#, fuzzy
 msgid "Museólogo(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Museólogo(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Museólogo(a)\"  # Museum specialis"
+msgstr "Museólogo(a)"
 
 #: src/conf/taxonomies.php:715
-#, fuzzy
 msgid "Músico/Musicista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Músico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Músico\"  # Musicia"
+msgstr "Músico"
 
 #: src/conf/taxonomies.php:716
-#, fuzzy
 msgid "Oficineiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tallerista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tallerista\"  # Workshop facilitato"
+msgstr "Tallerista"
 
 #: src/conf/taxonomies.php:717
-#, fuzzy
 msgid "Operador de Central de Rádio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de central de radio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de central de radio\"  # Radio station operato"
+msgstr "Operador de central de radio"
 
 #: src/conf/taxonomies.php:718
-#, fuzzy
 msgid "Operador de Microfone (boom man)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de micrófono (boom man)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de micrófono (boom man)\"  # Boom operato"
+msgstr "Operador de micrófono (boom man)"
 
 #: src/conf/taxonomies.php:719
-#, fuzzy
 msgid "Operador de Projetor Cinematográfico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de proyector cinematográfico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de proyector cinematográfico\"  # Film projector operato"
+msgstr "Operador de proyector cinematográfico"
 
 #: src/conf/taxonomies.php:720
-#, fuzzy
 msgid "Operador de Som"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de sonido\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de sonido\"  # Sound operato"
+msgstr "Operador de sonido"
 
 #: src/conf/taxonomies.php:721
-#, fuzzy
 msgid "Operador de Transmissor de Rádio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de transmisor de radio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador de transmisor de radio\"  # Radio transmitter operato"
+msgstr "Operador de transmisor de radio"
 
 #: src/conf/taxonomies.php:722
-#, fuzzy
 msgid "Operador(a) de Áudio de Continuidade (rádio)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de audio de continuidad (radio)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de audio de continuidad (radio)\"  # Continuity audio operato"
+msgstr "Operador(a) de audio de continuidad (radio)"
 
 #: src/conf/taxonomies.php:723
-#, fuzzy
 msgid "Operador(a) de Câmera"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de cámara\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de cámara\"  # Camera operato"
+msgstr "Operador(a) de cámara"
 
 #: src/conf/taxonomies.php:724
-#, fuzzy
 msgid "Operador(a) de Controle Mestre (rádio)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de control maestro (radio)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de control maestro (radio)\"  # Master control operato"
+msgstr "Operador(a) de control maestro (radio)"
 
 #: src/conf/taxonomies.php:725
-#, fuzzy
 msgid "Operador(a) de Externa"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de externa\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de externa\"  # Field operato"
+msgstr "Operador(a) de externa"
 
 #: src/conf/taxonomies.php:726
-#, fuzzy
 msgid "Operador(a) de Gravação de Rádio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de grabación de radio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de grabación de radio\"  # Radio recording operato"
+msgstr "Operador(a) de grabación de radio"
 
 #: src/conf/taxonomies.php:727
-#, fuzzy
 msgid "Operador(a) de Luz"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de luces\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Operador(a) de luces\"  # Lighting operato"
+msgstr "Operador(a) de luces"
 
 #: src/conf/taxonomies.php:728
-#, fuzzy
 msgid "Palhaço/Clown"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Payaso/Clown\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Payaso/Clown\"  # Clow"
+msgstr "Payaso/Clown"
 
 #: src/conf/taxonomies.php:729
-#, fuzzy
 msgid "Paneleiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hojalatero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hojalatero(a)\"  # Pan maker/tinsmit"
+msgstr "Hojalatero(a)"
 
 #: src/conf/taxonomies.php:730
-#, fuzzy
 msgid "Parteira Indígena"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Partera indígena\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Partera indígena\"  # Indigenous midwif"
+msgstr "Partera indígena"
 
 #: src/conf/taxonomies.php:731
-#, fuzzy
 msgid "Parteiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Partero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Partero(a)\"  # Midwif"
+msgstr "Partero(a)"
 
 #: src/conf/taxonomies.php:732
-#, fuzzy
 msgid "Passador (a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Pasador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Pasador(a)\"  # Passer (textile/leather worker"
+msgstr "Pasador(a)"
 
 #: src/conf/taxonomies.php:733
-#, fuzzy
 msgid "Passista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Passista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Passista\"  # Samba dancer (specific to Brazilian carnival"
+msgstr "Passista"
 
 #: src/conf/taxonomies.php:734
-#, fuzzy
 msgid "Patinador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Patinador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Patinador(a)\"  # Skate"
+msgstr "Patinador(a)"
 
 #: src/conf/taxonomies.php:735
-#, fuzzy
 msgid "Perna de Pau (ou Pernalta)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Zancos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Zancos\"  # Stilt walke"
+msgstr "Zancos"
 
 #: src/conf/taxonomies.php:736
-#, fuzzy
 msgid "Peruqueiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Peluquero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Peluquero\"  # Wig make"
+msgstr "Peluquero"
 
 #: src/conf/taxonomies.php:737
-#, fuzzy
 msgid "Peruqueiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Peluquero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Peluquero(a)\"  # Wig maker (gender inclusive"
+msgstr "Peluquero(a)"
 
 #: src/conf/taxonomies.php:738
-#, fuzzy
 msgid "Pesquisador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Investigador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Investigador(a)\"  # Researche"
+msgstr "Investigador(a)"
 
 #: src/conf/taxonomies.php:739
-#, fuzzy
 msgid "Pilotista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Conductor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Conductor(a)\"  # Driver/pilo"
+msgstr "Conductor(a)"
 
 #: src/conf/taxonomies.php:740
-#, fuzzy
 msgid "Pirofagista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Pirofagista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Pirofagista\"  # Fire eate"
+msgstr "Pirofagista"
 
 #: src/conf/taxonomies.php:741
-#, fuzzy
 msgid "Poeta"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Poeta\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Poeta\"  # Poe"
+msgstr "Poeta"
 
 #: src/conf/taxonomies.php:742
-#, fuzzy
 msgid "Poeta de Slam"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Poeta de Slam\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Poeta de Slam\"  # Slam poe"
+msgstr "Poeta de Slam"
 
 #: src/conf/taxonomies.php:743
-#, fuzzy
 msgid "Porta-bandeira/Porta-estandarte"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Portaestandarte\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Portaestandarte\"  # Flag beare"
+msgstr "Portaestandarte"
 
 #: src/conf/taxonomies.php:744
-#, fuzzy
 msgid "Produtor Audiovisual"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor audiovisual\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor audiovisual\"  # Audiovisual produce"
+msgstr "Productor audiovisual"
 
 #: src/conf/taxonomies.php:745
-#, fuzzy
 msgid "Produtor de Casting"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor de casting\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor de casting\"  # Casting produce"
+msgstr "Productor de casting"
 
 #: src/conf/taxonomies.php:746
-#, fuzzy
 msgid "Produtor Musical"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor musical\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor musical\"  # Music produce"
+msgstr "Productor musical"
 
 #: src/conf/taxonomies.php:747
-#, fuzzy
 msgid "Produtor(a) Cultural"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor(a) cultural\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor(a) cultural\"  # Cultural produce"
+msgstr "Productor(a) cultural"
 
 #: src/conf/taxonomies.php:748
-#, fuzzy
 msgid "Produtor(a) de Casting/Booker"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor(a) de casting/booker\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor(a) de casting/booker\"  # Casting producer/booke"
+msgstr "Productor(a) de casting/booker"
 
 #: src/conf/taxonomies.php:749
-#, fuzzy
 msgid "Produtor(a) Fonográfico"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor(a) fonográfico\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Productor(a) fonográfico\"  # Phonographic produce"
+msgstr "Productor(a) fonográfico"
 
 #: src/conf/taxonomies.php:750
-#, fuzzy
 msgid "Professor"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Profesor\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Profesor\"  # Professor/teache"
+msgstr "Profesor"
 
 #: src/conf/taxonomies.php:751
-#, fuzzy
 msgid "Profissional da crítica"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Profesional de la crítica\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Profesional de la crítica\"  # Professional criti"
+msgstr "Profesional de la crítica"
 
 #: src/conf/taxonomies.php:752
-#, fuzzy
 msgid "Programador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Programador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Programador(a)\"  # Programme"
+msgstr "Programador(a)"
 
 #: src/conf/taxonomies.php:753
-#, fuzzy
 msgid "Projecionista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Proyeccionista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Proyeccionista\"  # Projectionis"
+msgstr "Proyeccionista"
 
 #: src/conf/taxonomies.php:754
-#, fuzzy
 msgid "Projetista de Móveis"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de muebles\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de muebles\"  # Furniture designe"
+msgstr "Diseñador de muebles"
 
 #: src/conf/taxonomies.php:755
-#, fuzzy
 msgid "Projetista de Sistemas de Áudio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de sistemas de audio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador de sistemas de audio\"  # Audio systems designe"
+msgstr "Diseñador de sistemas de audio"
 
 #: src/conf/taxonomies.php:756
-#, fuzzy
 msgid "Quadrilheiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cuatrillero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Cuatrillero(a)\"  # Square dancer (folk dance"
+msgstr "Cuatrillero(a)"
 
 #: src/conf/taxonomies.php:757
-#, fuzzy
 msgid "Quadrinista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Historietista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Historietista\"  # Comic book artis"
+msgstr "Historietista"
 
 #: src/conf/taxonomies.php:758
-#, fuzzy
 msgid "Queijista Artesanal"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Quesero artesanal\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Quesero artesanal\"  # Artisanal cheesemake"
+msgstr "Quesero artesanal"
 
 #: src/conf/taxonomies.php:759
-#, fuzzy
 msgid "Rapper"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rapero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Rapero\"  # Rappe"
+msgstr "Rapero"
 
 #: src/conf/taxonomies.php:760
-#, fuzzy
 msgid "Redator(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Redactor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Redactor(a)\"  # Writer/edito"
+msgstr "Redactor(a)"
 
 #: src/conf/taxonomies.php:761
-#, fuzzy
 msgid "Rendeiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Encajero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Encajero(a)\"  # Lace make"
+msgstr "Encajero(a)"
 
 #: src/conf/taxonomies.php:762
-#, fuzzy
 msgid "Repórter"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Reportero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Reportero\"  # Reporte"
+msgstr "Reportero"
 
 #: src/conf/taxonomies.php:763
-#, fuzzy
 msgid "Restaurador de Livros e Documentos"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Restaurador de libros y documentos\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Restaurador de libros y documentos\"  # Book/document restore"
+msgstr "Restaurador de libros y documentos"
 
 #: src/conf/taxonomies.php:764
-#, fuzzy
 msgid "Restaurador(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Restaurador(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Restaurador(a)\"  # Restore"
+msgstr "Restaurador(a)"
 
 #: src/conf/taxonomies.php:765
-#, fuzzy
 msgid "Revisor(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Revisor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Revisor(a)\"  # Proofreade"
+msgstr "Revisor(a)"
 
 #: src/conf/taxonomies.php:766
-#, fuzzy
 msgid "Ritmista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ritmista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ritmista\"  # Rhythm player (music"
+msgstr "Ritmista"
 
 #: src/conf/taxonomies.php:767
-#, fuzzy
 msgid "Roadie"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Roadie\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Roadie\"  # Kept English term (concert technician"
+msgstr "Roadie"
 
 #: src/conf/taxonomies.php:768
-#, fuzzy
 msgid "Roteirista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guionista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guionista\"  # Screenwrite"
+msgstr "Guionista"
 
 #: src/conf/taxonomies.php:769
-#, fuzzy
 msgid "Rumbeira de Circo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista de rumba de circo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Artista de rumba de circo\"  # Circus rumba performe"
+msgstr "Artista de rumba de circo"
 
 #: src/conf/taxonomies.php:770
-#, fuzzy
 msgid "Sacerdote de religiosidade popular"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sacerdote de religiosidad popular\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sacerdote de religiosidad popular\"  # Folk religion pries"
+msgstr "Sacerdote de religiosidad popular"
 
 #: src/conf/taxonomies.php:771
-#, fuzzy
 msgid "Saltimbanco"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Saltimbanqui\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Saltimbanqui\"  # Street performe"
+msgstr "Saltimbanqui"
 
 #: src/conf/taxonomies.php:772
-#, fuzzy
 msgid "Sambista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sambista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sambista\"  # Samba musicia"
+msgstr "Sambista"
 
 #: src/conf/taxonomies.php:773
-#, fuzzy
 msgid "Sapateiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Zapatero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Zapatero\"  # Shoemake"
+msgstr "Zapatero"
 
 #: src/conf/taxonomies.php:774
-#, fuzzy
 msgid "Secretário de Frente"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Secretario de frente\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Secretario de frente\"  # Front desk secretar"
+msgstr "Secretario de frente"
 
 #: src/conf/taxonomies.php:775
-#, fuzzy
 msgid "Secretário(a) Teatral"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Secretario(a) teatral\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Secretario(a) teatral\"  # Theater secretar"
+msgstr "Secretario(a) teatral"
 
 #: src/conf/taxonomies.php:776
-#, fuzzy
 msgid "Serigrafista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Serigrafista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Serigrafista\"  # Screen printe"
+msgstr "Serigrafista"
 
 #: src/conf/taxonomies.php:777
-#, fuzzy
 msgid "Sineiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Campanero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Campanero\"  # Bell ringe"
+msgstr "Campanero"
 
 #: src/conf/taxonomies.php:778
-#, fuzzy
 msgid "Sonoplasta"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sonidista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Sonidista\"  # Sound designe"
+msgstr "Sonidista"
 
 #: src/conf/taxonomies.php:779
-#, fuzzy
 msgid "Tacacazeiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Vendedor(a) de tacacá\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Vendedor(a) de tacacá\"  # Tacacá (Brazilian dish) vendo"
+msgstr "Vendedor(a) de tacacá"
 
 #: src/conf/taxonomies.php:780
-#, fuzzy
 msgid "Tanoeiro(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tonelero(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tonelero(a)\"  # Cooper (barrel maker"
+msgstr "Tonelero(a)"
 
 #: src/conf/taxonomies.php:781
-#, fuzzy
 msgid "Tatuador"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tatuador\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tatuador\"  # Tattoo artis"
+msgstr "Tatuador"
 
 #: src/conf/taxonomies.php:782
-#, fuzzy
 msgid "Tecelão(ã)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tejedor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Tejedor(a)\"  # Weave"
+msgstr "Tejedor(a)"
 
 #: src/conf/taxonomies.php:783
-#, fuzzy
 msgid "Técnico (a) em biblioteconomia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en bibliotecología\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en bibliotecología\"  # Library technicia"
+msgstr "Técnico(a) en bibliotecología"
 
 #: src/conf/taxonomies.php:784
-#, fuzzy
 msgid "Técnico em Masterização de Áudio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico en masterización de audio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico en masterización de audio\"  # Audio mastering technicia"
+msgstr "Técnico en masterización de audio"
 
 #: src/conf/taxonomies.php:785
-#, fuzzy
 msgid "Técnico em Mixagem de Áudio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico en mezcla de audio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico en mezcla de audio\"  # Audio mixing technicia"
+msgstr "Técnico en mezcla de audio"
 
 #: src/conf/taxonomies.php:786
-#, fuzzy
 msgid ""
 "Técnico em Operação de Equipamentos de Transmissão/Recepção de Televisão"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico en operación de equipos de transmisión/recepción de televisión\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico en operación de equipos de transmisión/recepción de televisión\"  # "
-"TV transmission technicia"
+msgstr "Técnico en operación de equipos de transmisión/recepción de televisión"
 
 #: src/conf/taxonomies.php:787
-#, fuzzy
 msgid "Técnico(a) audiovisual"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) audiovisual\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) audiovisual\"  # Audiovisual technicia"
+msgstr "Técnico(a) audiovisual"
 
 #: src/conf/taxonomies.php:788
-#, fuzzy
 msgid "Técnico(a) Contábil"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) contable\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) contable\"  # Accounting technicia"
+msgstr "Técnico(a) contable"
 
 #: src/conf/taxonomies.php:789
-#, fuzzy
 msgid "Técnico(a) de arquivo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de archivo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de archivo\"  # Archive technicia"
+msgstr "Técnico(a) de archivo"
 
 #: src/conf/taxonomies.php:790
-#, fuzzy
 msgid "Técnico(a) de Estúdio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de estudio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de estudio\"  # Studio technicia"
+msgstr "Técnico(a) de estudio"
 
 #: src/conf/taxonomies.php:791
-#, fuzzy
 msgid "Técnico(a) de Iluminação"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de Iluminación\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de iluminación\"  # Lighting technicia"
+msgstr "Técnico(a) de Iluminación"
 
 #: src/conf/taxonomies.php:792
-#, fuzzy
 msgid "Técnico(a) de Som"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de Sonido\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de sonido\"  # Sound technicia"
+msgstr "Técnico(a) de Sonido"
 
 #: src/conf/taxonomies.php:793
-#, fuzzy
 msgid "Técnico(a) de Som Direto"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de Sonido Directo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) de sonido directo\"  # Live sound technicia"
+msgstr "Técnico(a) de Sonido Directo"
 
 #: src/conf/taxonomies.php:794
 msgid "Técnico(a) de sonorização"
 msgstr "Técnico(a) de sonido"
 
 #: src/conf/taxonomies.php:795
-#, fuzzy
 msgid "Técnico(a) em Cenografia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en escenografía\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en escenografía\"  # Scenography technicia"
+msgstr "Técnico(a) en escenografía"
 
 #: src/conf/taxonomies.php:796
-#, fuzzy
 msgid "Técnico(a) em Gravação de Áudio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en grabación de audio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en grabación de audio\"  # Audio recording technicia"
+msgstr "Técnico(a) en grabación de audio"
 
 #: src/conf/taxonomies.php:797
-#, fuzzy
 msgid "Técnico(a) em Instalação de Equipamentos de Áudio"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en instalación de equipos de audio\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en instalación de equipos de audio\"  # Audio equipment "
-"installation technicia"
+msgstr "Técnico(a) en instalación de equipos de audio"
 
 #: src/conf/taxonomies.php:798
-#, fuzzy
 msgid "Técnico(a) em Museologia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en museología\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Técnico(a) en museología\"  # Museology technicia"
+msgstr "Técnico(a) en museología"
 
 #: src/conf/taxonomies.php:799
-#, fuzzy
 msgid "Titeriteiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Titiritero\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Titiritero\"  # Puppetee"
+msgstr "Titiritero"
 
 #: src/conf/taxonomies.php:800
-#, fuzzy
 msgid "Trabalhador de Confecções de Bijuterias e Jóias de Fantasia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trabajador de confección de bisutería y joyería de fantasía\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trabajador de confección de bisutería y joyería de fantasía\"  # Costume "
-"jewelry make"
+msgstr "Trabajador de confección de bisutería y joyería de fantasía"
 
 #: src/conf/taxonomies.php:801
-#, fuzzy
 msgid "Tradutor(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Traductor(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Traductor(a)\"  # Translato"
+msgstr "Traductor(a)"
 
 #: src/conf/taxonomies.php:802
-#, fuzzy
 msgid "Tradutor(a) ou Intérprete de Libras"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Traductor(a) o Intérprete de lengua de señas\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Traductor(a) o Intérprete de lengua de señas\"  # Sign language translator/"
-"interprete"
+msgstr "Traductor(a) o Intérprete de lengua de señas"
 
 #: src/conf/taxonomies.php:803
-#, fuzzy
 msgid "Transcritor ou Revisor em Braille"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Transcriptor o Revisor en Braille\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Transcriptor o Revisor en Braille\"  # Braille transcriber/reviewe"
+msgstr "Transcriptor o Revisor en Braille"
 
 #: src/conf/taxonomies.php:804
-#, fuzzy
 msgid "Trapezista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trapezista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trapezista\"  # Trapeze artis"
+msgstr "Trapezista"
 
 #: src/conf/taxonomies.php:805
-#, fuzzy
 msgid "Trefilador (joalheria e ourivesaria)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trefilador (joyería y orfebrería)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Trefilador (joyería y orfebrería)\"  # Wire drawer (jewelry"
+msgstr "Trefilador (joyería y orfebrería)"
 
 #: src/conf/taxonomies.php:806
-#, fuzzy
 msgid "Turismólogo(a)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Turismólogo(a)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Turismólogo(a)\"  # Tourism specialis"
+msgstr "Turismólogo(a)"
 
 #: src/conf/taxonomies.php:807
-#, fuzzy
 msgid "Ventríloquo"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ventrílocuo\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ventrílocuo\"  # Ventriloquis"
+msgstr "Ventrílocuo"
 
 #: src/conf/taxonomies.php:808
-#, fuzzy
 msgid "Violeiro"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Violeiro\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Violeiro\"  # Viola player (traditional"
+msgstr "Violeiro"
 
 #: src/conf/taxonomies.php:809
-#, fuzzy
 msgid "Visagista"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Visagista\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Visagista\"  # Makeup artis"
+msgstr "Visagista"
 
 #: src/conf/taxonomies.php:810
-#, fuzzy
 msgid "Visual Merchandiser"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Visual Merchandiser\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Visual Merchandiser\"  # Kept English ter"
+msgstr "Visual Merchandiser"
 
 #: src/conf/taxonomies.php:811
-#, fuzzy
 msgid "VJ"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"VJ\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"VJ\"  # Video Jockey (kept international term"
+msgstr "VJ"
 
 #: src/conf/taxonomies.php:812
-#, fuzzy
 msgid "Web Designer"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador web\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Diseñador web\"  # Web designe"
+msgstr "Diseñador web"
 
 #: src/conf/taxonomies.php:818
-#, fuzzy
 msgid "Etnia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Etnia\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Etnia\"  # Ethnicit"
+msgstr "Etnia"
 
 # Indigenous ethnic groups (maintained original names as they are proper nouns):
 #: src/conf/taxonomies.php:823
@@ -8147,31 +6133,16 @@ msgid "Arara"
 msgstr "Arara"
 
 #: src/conf/taxonomies.php:838
-#, fuzzy
 msgid "AraradaVoltaGrandedoXingu"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arara da Volta Grande do Xingu\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arara da Volta Grande do Xingu\"  # Added spaces for readabilit"
+msgstr "Arara da Volta Grande do Xingu"
 
 #: src/conf/taxonomies.php:839
-#, fuzzy
 msgid "AraradoRioAmônia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arara do Rio Amônia\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arara do Rio Amônia\"  # Added space"
+msgstr "Arara do Rio Amônia"
 
 #: src/conf/taxonomies.php:840
-#, fuzzy
 msgid "AraradoRioBranco"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arara do Rio Branco\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Arara do Rio Branco\"  # Added space"
+msgstr "Arara do Rio Branco"
 
 #: src/conf/taxonomies.php:841
 msgid "AraraShawãdawa"
@@ -8194,22 +6165,12 @@ msgid "Ashaninka"
 msgstr "Ashaninka"
 
 #: src/conf/taxonomies.php:846
-#, fuzzy
 msgid "AsurinidoTocantins"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asurini do Tocantins\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asurini do Tocantins\"  # Added spac"
+msgstr "Asurini do Tocantins"
 
 #: src/conf/taxonomies.php:847
-#, fuzzy
 msgid "AsurinidoXingu"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asurini do Xingu\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Asurini do Xingu\"  # Added spac"
+msgstr "Asurini do Xingu"
 
 #: src/conf/taxonomies.php:848
 msgid "Atikum"
@@ -8220,22 +6181,12 @@ msgid "Avá-Canoeiro"
 msgstr "Avá-Canoeiro"
 
 #: src/conf/taxonomies.php:850
-#, fuzzy
 msgid "AwaGuajá"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Awa Guajá\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Awa Guajá\"  # Added spac"
+msgstr "Awa Guajá"
 
 #: src/conf/taxonomies.php:851
-#, fuzzy
 msgid "Aweti"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Aweti\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Aweti\"  # Nombre propio, se mantiene igua"
+msgstr "Aweti"
 
 #: src/conf/taxonomies.php:852
 msgid "Bakairi"
@@ -8262,13 +6213,8 @@ msgid "Baré"
 msgstr "Baré"
 
 #: src/conf/taxonomies.php:858
-#, fuzzy
 msgid "Baré(Boe)"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Baré (Boe)\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Baré (Boe)\"  # Se añade espacio para format"
+msgstr "Baré (Boe)"
 
 #: src/conf/taxonomies.php:859
 msgid "Borari"
@@ -8279,13 +6225,8 @@ msgid "Bororo"
 msgstr "Bororo"
 
 #: src/conf/taxonomies.php:861
-#, fuzzy
 msgid "CanelaApanyekrá"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Canela Apanyekrá\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Canela Apanyekrá\"  # Se separan palabra"
+msgstr "Canela Apanyekrá"
 
 #: src/conf/taxonomies.php:862
 msgid "CanelaMemortumré"
@@ -8312,13 +6253,8 @@ msgid "Deni"
 msgstr "Deni"
 
 #: src/conf/taxonomies.php:868
-#, fuzzy
 msgid "Desana"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Desana\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Desana\"  # Se eliminó #, fuzzy y se mantuvo nombr"
+msgstr "Desana"
 
 #: src/conf/taxonomies.php:869
 msgid "Djeoromitxí"
@@ -8337,13 +6273,8 @@ msgid "Fulni-ô"
 msgstr "Fulni-ô"
 
 #: src/conf/taxonomies.php:873
-#, fuzzy
 msgid "GalibiKa'lina"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Galibi Ka'lina\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Galibi Ka'lina\"  # Espacio añadid"
+msgstr "Galibi Ka'lina"
 
 #: src/conf/taxonomies.php:874
 msgid "Galibi-Marworno"
@@ -8374,13 +6305,8 @@ msgid "Guajajara"
 msgstr "Guajajara"
 
 #: src/conf/taxonomies.php:881
-#, fuzzy
 msgid "Guarani"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guaraní\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Guaraní\"  # Ajuste ortográfico al españo"
+msgstr "Guaraní"
 
 #: src/conf/taxonomies.php:882
 msgid "Guató"
@@ -8391,26 +6317,16 @@ msgid "Hixkaryana"
 msgstr "Hixkaryana"
 
 #: src/conf/taxonomies.php:884
-#, fuzzy
 msgid "HuniKuin"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Huni Kuin\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Huni Kuin\"  # Espacio añadid"
+msgstr "Huni Kuin"
 
 #: src/conf/taxonomies.php:885
 msgid "Hupda"
 msgstr "Hupda"
 
 #: src/conf/taxonomies.php:886
-#, fuzzy
 msgid "HupdaIkolenIkpengIngarikóIny"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hupda, Ikolen, Ikpeng, Ingarikó, Iny\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Hupda, Ikolen, Ikpeng, Ingarikó, Iny\"  # Separación con coma"
+msgstr "Hupda, Ikolen, Ikpeng, Ingarikó, Iny"
 
 #: src/conf/taxonomies.php:887
 msgid "Jamamadi"
@@ -8465,13 +6381,8 @@ msgid "Kaiowá"
 msgstr "Kaiowá"
 
 #: src/conf/taxonomies.php:900
-#, fuzzy
 msgid "Kaixana"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Kaixana\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Kaixana\"  # Se eliminó #, fuzz"
+msgstr "Kaixana"
 
 #: src/conf/taxonomies.php:901
 msgid "Kakwa"
@@ -8810,13 +6721,8 @@ msgid "Parakanã"
 msgstr "Parakanã"
 
 #: src/conf/taxonomies.php:985
-#, fuzzy
 msgid "Paresí"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Paresí\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Paresí\"  # Se eliminó #, fuzz"
+msgstr "Paresí"
 
 #: src/conf/taxonomies.php:986
 msgid "Parintintin"
@@ -11176,13 +9082,8 @@ msgstr "DÓNDE: "
 
 #: src/modules/Components/components/entity-card/template.php:54
 #: src/modules/Components/components/entity-card/texts.php:7
-#, fuzzy
 msgid "As inscrições encerrarão no dia"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Las inscripciones se cerrarán el día\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Las inscripciones se cerraron el día"
+msgstr "Las inscripciones se cerrarán el día"
 
 #: src/modules/Components/components/entity-card/template.php:54
 #: src/modules/Components/components/entity-card/template.php:62
@@ -11899,13 +9800,8 @@ msgid "Número:"
 msgstr "Número:"
 
 #: src/modules/Components/components/mc-summary-agent-info/template.php:35
-#, fuzzy
 msgid "Complemento:"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Localidad, Apto, Esquina, Referencia u Otro dato útil:\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Complemento:"
+msgstr "Localidad, Apto, Esquina, Referencia u Otro dato útil:"
 
 #: src/modules/Components/components/mc-summary-agent-info/template.php:36
 msgid "Bairro:"
@@ -13722,13 +11618,8 @@ msgid "Mensagem de Sucesso"
 msgstr "Mensaje de éxito"
 
 #: src/modules/Entities/components/entity-location/template.php:31
-#, fuzzy
 msgid "Complemento ou ponto de referência"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Apto, Esquina, Referencia u Otro dato útil\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Complemento"
+msgstr "Apto, Esquina, Referencia u Otro dato útil"
 
 #: src/modules/Entities/components/entity-location/template.php:95
 msgid ""
@@ -20569,13 +18460,8 @@ msgid "Nome do endereço"
 msgstr "Nombre de la dirección"
 
 #: src/modules/Opportunities/components/registration-field-address/template.php:61
-#, fuzzy
 msgid "complemento"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"localidad\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"complemento"
+msgstr "localidad"
 
 #: src/modules/Opportunities/components/registration-field-address/template.php:84
 msgid "Remover endereço"
@@ -21003,13 +18889,8 @@ msgid "Inscrição realizada em"
 msgstr "Inscripción realizada el"
 
 #: src/modules/Opportunities/views/registration/single.php:49
-#, fuzzy
 msgid "Acompanhamento"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Seguimiento\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Complemento"
+msgstr "Seguimiento"
 
 #: src/modules/Opportunities/views/registration/single.php:62
 msgid "Nº de inscrição"
@@ -29123,13 +27004,8 @@ msgstr "Ingrese el Número"
 #: src/themes/BaseV1/layouts/parts/singles/history_agent.php:182
 #: src/themes/BaseV1/layouts/parts/singles/history_space.php:174
 #: src/themes/BaseV1/layouts/parts/singles/location.php:17
-#, fuzzy
 msgid "Insira um complemento"
-msgstr ""
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ingrese Apto, Esquina, Referencia u Otro dato útil\n"
-"#-#-#-#-#  es_ES.po (mapas)  #-#-#-#-#\n"
-"Ingrese un complemento"
+msgstr "Ingrese Apto, Esquina, Referencia u Otro dato útil"
 
 #: src/themes/BaseV1/layouts/parts/singles/history_agent.php:183
 #: src/themes/BaseV1/layouts/parts/singles/history_space.php:175
@@ -31491,14 +29367,6 @@ msgstr ""
 msgid "Sobre o Site"
 msgstr "Acerca del Sitio"
 
-#: config/module.registrationFieldTypes.php:411
-msgid "Conta corrente"
-msgstr "Cuenta corriente"
-
-#: config/module.registrationFieldTypes.php:412
-msgid "Conta Poupança"
-msgstr "Caja de ahorro"
-
 #: config/module.registrationFieldTypes.php:9
 msgid "644 - 321 SCD S.A."
 msgstr ""
@@ -33098,6 +30966,12 @@ msgstr ""
 #: config/module.registrationFieldTypes.php:408
 msgid "595 - ZOOP MEIOS DE PAGAMENTO"
 msgstr ""
+
+#~ msgid "Conta corrente"
+#~ msgstr "Cuenta corriente"
+
+#~ msgid "Conta Poupança"
+#~ msgstr "Caja de ahorro"
 
 #~ msgid "Quantidade inscrições:"
 #~ msgstr "Cantidad de inscripciones:"
