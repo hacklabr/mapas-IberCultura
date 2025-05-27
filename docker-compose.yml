@@ -48,6 +48,8 @@ services:
     environment:
       - REDIS_CACHE=redis
       - SESSIONS_SAVE_PATH=tcp://sessions:6379
+      - APP_LCODE=es_ES
+      - BUILD_ASSETS=1
 
     depends_on:
       - db
