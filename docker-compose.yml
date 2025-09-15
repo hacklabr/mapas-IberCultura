@@ -40,7 +40,7 @@ services:
       - ./docker-data/sessions:/var/www/var/sessions
       - ./docker-data/logs:/var/www/var/logs
 
-      - ./docker/production/config.d /var/www/config/prod.d
+      - ./docker/production/config.d:/var/www/config/prod.d
     links:
       - db
       - redis
@@ -48,6 +48,8 @@ services:
     environment:
       - REDIS_CACHE=redis
       - SESSIONS_SAVE_PATH=tcp://sessions:6379
+      - APP_LCODE=es_ES
+      - BUILD_ASSETS=1
 
     depends_on:
       - db
