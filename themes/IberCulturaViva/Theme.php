@@ -59,6 +59,15 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
             }
 
             // Sobrescreve apenas os títulos dos templates de email específicos
+            if (isset($this->config['mailer.templates']['welcome'])) {
+                $this->config['mailer.templates']['welcome']['title'] = i::__("Bem-vindo(a) ao IberCultura Viva");
+            }
+            if (isset($this->config['mailer.templates']['last_login'])) {
+                $this->config['mailer.templates']['last_login']['title'] = i::__("Acesse a IberCultura Viva");
+            }
+            if (isset($this->config['mailer.templates']['update_required'])) {
+                $this->config['mailer.templates']['update_required']['title'] = i::__("Acesse a IberCultura Viva");
+            }
             if (isset($this->config['mailer.templates']['compliant'])) {
                 $this->config['mailer.templates']['compliant']['title'] = i::__("Denúncia - IberCultura Viva");
             }
