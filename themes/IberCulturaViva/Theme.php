@@ -58,21 +58,21 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
                 $this->config['maps.tileServer'] = 'https://tileserver.map.as/{z}/{x}/{y}.png?lang=es';
             }
 
-            // Sobrescreve apenas os títulos dos templates de email específicos
+            // Sobrescreve apenas os títulos dos templates de email específicos (em espanhol)
             if (isset($this->config['mailer.templates']['welcome'])) {
-                $this->config['mailer.templates']['welcome']['title'] = i::__("Bem-vindo(a) ao IberCultura Viva");
+                $this->config['mailer.templates']['welcome']['title'] = "Bienvenido(a) al IberCultura Viva";
             }
             if (isset($this->config['mailer.templates']['last_login'])) {
-                $this->config['mailer.templates']['last_login']['title'] = i::__("Acesse a IberCultura Viva");
+                $this->config['mailer.templates']['last_login']['title'] = "Accede a IberCultura Viva";
             }
             if (isset($this->config['mailer.templates']['update_required'])) {
-                $this->config['mailer.templates']['update_required']['title'] = i::__("Acesse a IberCultura Viva");
+                $this->config['mailer.templates']['update_required']['title'] = "Accede a IberCultura Viva";
             }
             if (isset($this->config['mailer.templates']['compliant'])) {
-                $this->config['mailer.templates']['compliant']['title'] = i::__("Denúncia - IberCultura Viva");
+                $this->config['mailer.templates']['compliant']['title'] = "Denuncia - IberCultura Viva";
             }
             if (isset($this->config['mailer.templates']['suggestion'])) {
-                $this->config['mailer.templates']['suggestion']['title'] = i::__("Mensagem - IberCultura Viva");
+                $this->config['mailer.templates']['suggestion']['title'] = "Mensaje - IberCultura Viva";
             }
         });
     }
