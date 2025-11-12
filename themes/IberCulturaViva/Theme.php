@@ -57,6 +57,14 @@ class Theme extends \MapasCulturais\Themes\BaseV2\Theme
             } else {
                 $this->config['maps.tileServer'] = 'https://tileserver.map.as/{z}/{x}/{y}.png?lang=es';
             }
+
+            // Sobrescreve apenas os títulos dos templates de email específicos
+            if (isset($this->config['mailer.templates']['compliant'])) {
+                $this->config['mailer.templates']['compliant']['title'] = i::__("Denúncia - IberCultura Viva");
+            }
+            if (isset($this->config['mailer.templates']['suggestion'])) {
+                $this->config['mailer.templates']['suggestion']['title'] = i::__("Mensagem - IberCultura Viva");
+            }
         });
     }
 

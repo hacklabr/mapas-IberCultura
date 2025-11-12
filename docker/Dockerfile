@@ -11,4 +11,4 @@ COPY docker/common/config.d /var/www/config/common.d
 COPY docker/production/config.d /var/www/config/config.d
 
 COPY docker/mantenimiento.php /var/www/html/mantenimiento.php
-COPY overrides/translations /var/www/src/translations
+# COPY overrides/translations /var/www/src/translations
