@@ -7,6 +7,7 @@ return [
         'Analytics' => ['namespace' => 'Analytics'],
         'Accessibility',
         'SpamDetector',
+        'ValuersManagement',
         'MapasBlame' => [
             'namespace' => 'MapasBlame',
             'config' => [
