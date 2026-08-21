@@ -5,3 +5,4 @@
 - platform: github
 - host: github.com
 - project: hacklabr/mapas-IberCultura
+- board: 34
