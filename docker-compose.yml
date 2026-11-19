@@ -50,6 +50,9 @@ services:
       - SESSIONS_SAVE_PATH=tcp://sessions:6379
       - APP_LCODE=es_ES
       - BUILD_ASSETS=1
+      # ConectaEnte: live fala com o CultBR (default do plugin é dev/simulado)
+      - CONECTAENTE_MODE=live
+      - CONECTAENTE_HOST=https://ente.conecta.cultbr.cultura.gov.br
 
     depends_on:
       - db

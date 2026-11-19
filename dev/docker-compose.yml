@@ -27,6 +27,7 @@ services:
       - ../plugins/Analytics:/var/www/src/plugins/Analytics
       - ../plugins/MapasBlame:/var/www/src/plugins/MapasBlame
       - ../plugins/ValuersManagement:/var/www/src/plugins/ValuersManagement
+      - ../plugins/ConectaEnte:/var/www/src/plugins/ConectaEnte
       - ../themes/IberCulturaViva:/var/www/src/themes/IberCulturaViva
 
     environment:
@@ -35,6 +36,10 @@ services:
       - REDIS_CACHE=redis
       - APP_MODE=development
       - BUILD_ASSETS=1
+
+      # ConectaEnte: live fala com o CultBR (default do plugin é dev/simulado)
+      - CONECTAENTE_MODE=live
+      - CONECTAENTE_HOST=https://ente.conecta.cultbr.cultura.gov.br
       - AUTH_REQUIRED_CPF=false
       - MAILER_TRANSPORT=smtp://mailhog:1025
       - MAILER_FROM=sysadmin@localhost
